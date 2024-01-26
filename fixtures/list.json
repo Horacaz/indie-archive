@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "HELLO, HELLO WORLD!",
+    "origin": "Japón",
+    "category": "Aventura",
+    "game_engine": "RPG MAKER MV",
+    "description": "Luego de la desaparición de su hermano mayor, una joven solicita la ayuda de un hombre de aspecto sospechoso. Sin embargo, según él, todo está al borde de la destrucción a causa de un “dios maligno” causando estragos en el mundo…",
+    "creator": "Metoko",
+    "published": 2022,
+    "translation": "Eris",
+    "uploaded_on": "21 de Noviembre del 2023",
+    "image": "/images/list/hh1.png",
+    "url": "url"
+  },
+  {
+    "id": 2,
+    "title": "El Extraño Viaje de los Mensajeros (Cap 1 y 2)",
+    "origin": "Colombia",
+    "category": "Aventura",
+    "game_engine": "RPG MAKER MV",
+    "description": "Tres mensajeros de diferentes naciones reciben un misterioso paquete que deberán enviar al gobernante de la tierra de la eternidad. Los mensajeros tomarán caminos separados para cumplir con su deber, sin embargo, su destino es encontrarse y emprender juntos este viaje en el que vivirán aventuras y situaciones un tanto extrañas que pondrán a prueba su capacidad para tomar buenas decisiones.",
+    "creator": "Noree",
+    "published": 2022,
+    "translation": null,
+    "uploaded_on": "18 de Noviembre del 2023",
+    "image": "/images/list/mensajeros.png",
+    "url": "url"
+  },
+  {
+    "id": 3,
+    "title": "I CANNOT DROWN",
+    "origin": "Japón",
+    "category": "Aventura",
+    "game_engine": "RPG MAKER MV",
+    "description": "Una mujer llamada Ume que se encuentra en una cueva monocromática junto a un conejo, una pelota roja y dos agujeros. Recibe una carta de alguien conocido como Fu, quien le dice que para escapar de la cueva, necesita profundizar más y encontrar todos los efectos.",
+    "creator": "Metoko",
+    "published": 2022,
+    "translation": "Eris",
+    "uploaded_on": "10 de Noviembre del 2023",
+    "image": "/images/list/i_cannot_drown.png",
+    "url": "url"
+  },
+  {
+    "id": 4,
+    "title": "Lily's Well",
+    "origin": "USA",
+    "category": "Misterio",
+    "game_engine": "RPG MAKER MV",
+    "description": "En esta ocasión tomaremos el papel de Lily, una inocente niña de 9 años que vive junto a su padre en el bosque. Una noche nuestro padre tendrá que dejarnos sola por culpa del trabajo, pero durante su ausencia oiremos una voz misteriosa que procede del pozo... Parece que necesita ayuda, ¿será Lily capaz de reunir suficientes materiales para crear una cuerda y descender?",
+    "creator": "IceWoodrick",
+    "published": 2022,
+    "translation": "Gross",
+    "uploaded_on": "3 de Noviembre del 2023",
+    "image": "/images/list/lily_hell.png",
+    "url": "url"
+  },
+  {
+    "id": 5,
+    "title": "Ib Remake (2022)",
+    "origin": "Japón",
+    "category": "Aventura",
+    "game_engine": "RPG MAKER MV",
+    "description": "Una niña llamada Ib visita una galería de arte con sus padres. Observando las distintas obras de arte, Ib se da cuenta de repente de que está sola. Mientras busca a alguien, a cualquier persona, el museo empieza a cambiar...",
+    "creator": "Kouri",
+    "published": 2022,
+    "translation": "Orca",
+    "uploaded_on": "30 de Noviembre del 2023",
+    "image": "/images/list/ib.png",
+    "url": "url"
+  }
+]
