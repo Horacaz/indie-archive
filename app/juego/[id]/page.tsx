@@ -47,6 +47,7 @@ function Galeria(props: { data: PublicacionJuego }) {
     <div className="mx-auto my-2 p-2">
       {props.data.imagenes.map((imagen) => (
         <Image
+          key={imagen}
           className="my-2"
           src={imagen}
           width={600}
