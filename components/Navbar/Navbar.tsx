@@ -1,26 +1,6 @@
 'use client'
 import { useState } from 'react'
-
-const categorias = [
-  'Acción',
-  'Aventura',
-  'Simulación',
-  'Estrategia',
-  'Deportes',
-  'Puzzles',
-  'Música',
-  'Carreras',
-  'Lucha',
-  'Horror',
-  'Gore',
-  'Casual',
-  'Educativo',
-  'Psicologico',
-  'Drama',
-  'Romance',
-  'Comedia',
-  'Novela Visual',
-]
+import categorias from './categories'
 export default function Navbar() {
   const [isHidden, setIsHidden] = useState(true)
   return (
@@ -35,7 +15,7 @@ export default function Navbar() {
               <li>
                 <button
                   onClick={() => setIsHidden(!isHidden)}
-                  className="flex items-center justify-between w-full py-2 px-3 rounded md:p-0 md:w-auto"
+                  className="flex items-center justify-between w-full py-2 px-3 rounded md:p-0 md:w-auto hover:text-yellow-400"
                 >
                   Listado
                   <ArrowSVG />
@@ -61,7 +41,7 @@ export default function Navbar() {
                   </ul>
                 </div>
               </li>
-              <NavbarItem text="Noticias" href="/noticias" />
+              <NavbarItem text="Articulos" href="/articulos" />
               <NavbarItem text="Nosotros" href="/nosotros" />
               <NavbarItem text="Contacto" href="/contacto" />
             </ul>
@@ -75,7 +55,10 @@ export default function Navbar() {
 function NavbarItem(props: { text: string; href: string }) {
   return (
     <li>
-      <a href={props.href} className="block py-2 px-3 rounded md:p-0">
+      <a
+        href={props.href}
+        className="block py-2 px-3 rounded md:p-0 hover:text-yellow-400"
+      >
         {props.text}
       </a>
     </li>
@@ -85,7 +68,10 @@ function NavbarItem(props: { text: string; href: string }) {
 function DropDownListItem(props: { text: string; href: string }) {
   return (
     <li>
-      <a href={props.href} className="block px-4 py-2">
+      <a
+        href={props.href}
+        className="block px-4 py-2 bg-neutral-950 hover:bg-neutral-800"
+      >
         {props.text}
       </a>
     </li>
@@ -141,9 +127,12 @@ function MobileListButton() {
 
 function HomeTitle() {
   return (
-    <a href="#" className="flex items-center space-x-3">
-      <span className="self-center text-2xl font-semibold whitespace-nowrap">
+    <a href="/" className="flex flex-col hover:opacity-80">
+      <span className="text-3xl font-semibold whitespace-nowrap text-center">
         The Indie Archive
+      </span>
+      <span className="text-md font-semibold whitespace-nowrap">
+        Tu repositorio de juegos RPG Maker
       </span>
     </a>
   )
@@ -172,7 +161,7 @@ function SearchBar() {
         </div>
         <input
           type="search"
-          className="block w-full p-2 ps-10 text-sm rounded-lg focus:outline-none"
+          className="block w-full p-2 ps-10 text-sm rounded-lg focus:outline-none bg-neutral-900"
         />
       </div>
     </form>

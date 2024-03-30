@@ -1,6 +1,7 @@
 import List from '@/components/GameList/List'
 import PopularGames from '@/components/PopularGames/Popular'
-export default function Home() {
+
+export default function Listado() {
   return (
     <main className="grid md:grid-cols-4">
       <div className="md:col-span-3 mx-1 px-2">

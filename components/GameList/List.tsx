@@ -1,15 +1,17 @@
 import Image from 'next/image'
-import gameList from '../fixtures/list.json'
+import gameList from '../../fixtures/list.json'
+import GameEntryProps from '@/types/GameEntryProps'
+import Paginator from '../Paginator/Paginator'
 
 export default function List() {
   return (
     <>
-      <h1 className="text-3xl"> Todos los Juegos </h1>
-      <div className="grid grid-cols-1 divide-y divide-stone-700 bg-stone-900 rounded">
+      <div className="m-1 grid grid-cols-1 divide-y divide-stone-700  bg-neutral-900 rounded">
         {gameList.map((game) => (
           <GameEntry key={game.id} {...game} />
         ))}
       </div>
+      <Paginator />
     </>
   )
 }
@@ -18,18 +20,22 @@ function GameEntry(props: GameEntryProps) {
   return (
     <div className="flex gap-4 m-2 p-4">
       <div className="relative min-w-[100px] md:min-w-[300px]">
-        <Image
-          fill
-          src={props.image}
-          className="border-black border-2"
-          alt=""
-        />
+        <a href={`juego/${props.id}`}>
+          <Image
+            fill
+            src={props.image}
+            className="border-black border-2 hover:opacity-50"
+            alt=""
+          />
+        </a>
       </div>
 
       <div className="flex flex-col gap-2">
-        <h3 className="text-md mx-1 font-bold text-pretty md:text-2xl">
-          {props.title}
-        </h3>
+        <a href={`juego/${props.id}`}>
+          <h3 className="text-md mx-1 font-bold text-pretty md:text-2xl hover:text-yellow-400">
+            {props.title}
+          </h3>
+        </a>
         <div className="text-xs md:text-sm">
           <span className="bg-yellow-400 p-1.5 mx-1 font-bold text-black rounded">
             {props.origin}
@@ -37,9 +43,12 @@ function GameEntry(props: GameEntryProps) {
           <span className="bg-yellow-400 p-1.5 mx-1 font-bold text-black rounded">
             {props.game_engine}
           </span>
-          <span className="bg-yellow-400 p-1.5 mx-1 font-bold text-black rounded">
+          <a
+            href={`listado/${props.category.toLocaleLowerCase()}`}
+            className="bg-yellow-400 p-1.5 mx-1 font-bold text-black rounded hover:bg-neutral-800 hover:text-white"
+          >
             {props.category}
-          </span>
+          </a>
         </div>
         <p className="text-xs md:text-md font-bold text-pretty mx-1">
           {props.description}
@@ -56,11 +65,14 @@ function GameEntry(props: GameEntryProps) {
               Traducción al Español: {props.translation}
             </p>
             <p className="text-xs md:text-sm opacity-75">
-              Agreagado el: {props.uploaded_on}
+              Agregado el: {props.uploaded_on}
             </p>
           </div>
           <div className="ml-auto self-end">
-            <a href={props.url} className="text-yellow-400 text-md font-bold">
+            <a
+              href={`juego/${props.id}`}
+              className="text-yellow-400 text-md font-bold hover:text-white"
+            >
               Ver más detalles...
             </a>
           </div>
@@ -68,19 +80,4 @@ function GameEntry(props: GameEntryProps) {
       </div>
     </div>
   )
-}
-
-type GameEntryProps = {
-  id: number
-  title: string
-  description: string
-  creator: string
-  published: number
-  translation: string | null
-  uploaded_on: string
-  image: string
-  category: string
-  game_engine: string
-  origin: string
-  url: string
 }

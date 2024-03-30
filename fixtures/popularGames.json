@@ -1,6 +1,6 @@
 [
   {
-    "position": 1,
+    "position": 8,
     "title": "ACONITE",
     "origin": "Japón",
     "category": "Drama",
@@ -10,7 +10,7 @@
     "url": "url"
   },
   {
-    "position": 2,
+    "position": 3,
     "title": "I CANNOT DROWN",
     "origin": "Japón",
     "category": "Terror",
@@ -20,7 +20,7 @@
     "url": "url"
   },
   {
-    "position": 3,
+    "position": 2,
     "title": "El Extraño Viaje de los Mensajeros (Cap 1 y 2)",
     "origin": "Colombia",
     "category": "Comedia",
@@ -30,9 +30,9 @@
     "url": "url"
   },
   {
-    "position": 4,
+    "position": 7,
     "title": "Fear and Hunger",
-    "origin": "USA",
+    "origin": "Estados Unidos",
     "category": "Terror",
     "author": "Funa",
     "translation": "Dark",
@@ -40,7 +40,7 @@
     "url": "url"
   },
   {
-    "position": 5,
+    "position": 6,
     "title": "MisTrick",
     "origin": "Japón",
     "category": "Drama",

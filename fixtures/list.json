@@ -43,16 +43,16 @@
   },
   {
     "id": 4,
-    "title": "Lily's Well",
-    "origin": "USA",
-    "category": "Misterio",
-    "game_engine": "RPG MAKER MV",
-    "description": "En esta ocasión tomaremos el papel de Lily, una inocente niña de 9 años que vive junto a su padre en el bosque. Una noche nuestro padre tendrá que dejarnos sola por culpa del trabajo, pero durante su ausencia oiremos una voz misteriosa que procede del pozo... Parece que necesita ayuda, ¿será Lily capaz de reunir suficientes materiales para crear una cuerda y descender?",
-    "creator": "IceWoodrick",
-    "published": 2022,
-    "translation": "Gross",
+    "title": "The Hanged Man",
+    "origin": "Japon",
+    "category": "Horror",
+    "game_engine": "RPG Wolf Editor",
+    "description": "The Hanged Man es un juego de aventuras, terror y psicología creado por Uri. Es el cuarto juego de la serie Strange Men.",
+    "creator": "Uri",
+    "published": 2017,
+    "translation": "Madotsuki",
     "uploaded_on": "3 de Noviembre del 2023",
-    "image": "/images/list/lily_hell.png",
+    "image": "/hanged/1.png",
     "url": "url"
   },
   {
@@ -67,6 +67,21 @@
     "translation": "Orca",
     "uploaded_on": "30 de Noviembre del 2023",
     "image": "/images/list/ib.png",
+    "url": "url"
+  },
+  {
+    "id": 6,
+    "title": "Mistrick",
+    "origin": "Japón",
+    "category": "Horror",
+    "game_engine": "RPG MAKER MV",
+    "description": "Este juego se podría decir que es una continuación de Misfiction. En el mismo universo o en otra ruta de la linea del tiempo. Algo usual en las historias del creador Hatoge.",
+    "creator": "Hatoge",
+    "published": 2022,
+    "translation": "Shi3kel",
+    "uploaded_on": "30 de Noviembre del 2023",
+    "image": "/mistrick/1.png",
+    "trama": "John Blanc es un convicto narcisista que se encuentra atrapado en una extraña dimensión. Poco después de su llegada, es recibido por su antiguo vecino de celda y asesino en serie ejecutado, Chase Colt. Aunque Chase afirma que John ya ha muerto, pronto descubre que se trata de una mentira malintencionada para mantener a John atrapado en este mundo. ¿Será capaz de encontrar una forma de escapar o morirá a manos de los muchos trucos de este malvado lugar?",
     "url": "url"
   }
 ]

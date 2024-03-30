@@ -1,80 +1,74 @@
-{
-  "1700535600000": [
-    {
-      "category": "Traducción",
-      "comments": 25,
-      "image": "/images/news/jigi.png",
-      "title": "Nueva Traducción al Español: Jigi",
-      "postedBy": "Orca",
-      "postedAt": "Nov 21, 14:55",
-      "brief": "Jigi es la continuación directa de Himegoto, una nueva entrega dentro del enigmático universo de iruanko."
-    },
-    {
-      "category": "Análisis",
-      "comments": 3,
-      "image": "/images/news/pomme.png",
-      "title": "¿Encontrará Pomme su cosa perdida?",
-      "postedBy": "kiki",
-      "postedAt": "Nov 21, 14:02",
-      "brief": "Todos los juegos comienzan con una premisa. En algunos casos, ella es clara como el agua. Sin embargo, existen casos como la obra de..."
-    }
-  ],
-  "1700449200000": [
-    {
-      "category": "Entrevista",
-      "comments": 84,
-      "image": "/images/news/wadda.png",
-      "title": "Sangre, tripas, pijas, culos, tetas y orcas. Entrevista a Funamusea",
-      "postedBy": "Noree",
-      "postedAt": "Nov 20, 14:35",
-      "brief": "Todo comenzo por allá en el año 2004. De la nada apareció un juego que a simple vista parecía nada más ni nada menos que otro juego como cualquier otro, pero quién hubiera pensado que desencadería."
-    },
-    {
-      "category": "Noticias",
-      "comments": 10,
-      "image": "/images/news/crying.png",
-      "title": "Se cancela la nueva trilogía de Miwashiba",
-      "postedBy": "kiki",
-      "postedAt": "Nov 20, 14:02",
-      "brief": "En un sorpresivo tweet, Miwashiba, el legendario artista y desarrollador RPG Maker comunicó el abandono de su nuevo proyecto y trilogía final..."
-    }
-  ],
-  "1700276400000": [
-    {
-      "category": "Traducción",
-      "comments": 14,
-      "title": "Nueva Traducción al Español: Oshiire",
-      "postedBy": "Noree",
-      "postedAt": "Nov 18, 14:35",
-      "image": "/images/news/oshire.png",
-      "brief": "Miedos, traumas y problemas. Oshire es tanto una visión como una crítica a nosotros mismos, sobre lo que somos, seremos, y buscamos..."
-    },
-    {
-      "category": "Traducción",
-      "comments": 10,
-      "title": "Nueva Traducción al Español: Himegoto",
-      "postedBy": "kiki",
-      "postedAt": "Nov 18, 14:02",
-      "image": "/images/news/himegoto.png",
-      "brief": "La segunda entrega de la nueva serie de Iruanko. Himegoto es la precuela directa de Jigi, una conocida entrega dentro del enigma..."
-    },
-    {
-      "category": "Anuncios",
-      "comments": 50,
-      "title": "¿Quieres colaborar con nosotros? ¡Ven!",
-      "postedBy": "Noree",
-      "postedAt": "Nov 18, 14:02",
-      "image": "/images/news/colab.png",
-      "brief": "Traductores, escritores y editores de videojuegos. ¡Ven y colabora con nuestra comunidad!"
-    },
-    {
-      "category": "Noticias",
-      "comments": 10,
-      "title": "¿Mad Father en VR?",
-      "postedBy": "kiki",
-      "postedAt": "Nov 18, 14:02",
-      "image": "/images/news/madfather.png",
-      "brief": "A través de medios oficiales, Playism confirmó que una remasterización de Mad Father en VR se encuentra en proceso..."
-    }
-  ]
-}
+[
+  {
+    "category": "Traducción",
+    "comments": 25,
+    "image": "/images/news/jigi.png",
+    "title": "Nueva Traducción al Español: Jigi",
+    "postedBy": "Orca",
+    "postedAt": "Nov 21, 14:55",
+    "brief": "Jigi es la continuación directa de Himegoto, una nueva entrega dentro del enigmático universo de iruanko."
+  },
+  {
+    "category": "Análisis",
+    "comments": 3,
+    "image": "/images/news/pomme.png",
+    "title": "¿Encontrará Pomme su cosa perdida?",
+    "postedBy": "kiki",
+    "postedAt": "Nov 21, 14:02",
+    "brief": "Todos los juegos comienzan con una premisa. En algunos casos, ella es clara como el agua. Sin embargo, existen casos como la obra de..."
+  },
+  {
+    "category": "Entrevista",
+    "comments": 84,
+    "image": "/images/news/wadda.png",
+    "title": "Sangre, tripas, pijas, culos, tetas y orcas. Entrevista a Funamusea",
+    "postedBy": "Noree",
+    "postedAt": "Nov 20, 14:35",
+    "brief": "Todo comenzo por allá en el año 2004. De la nada apareció un juego que a simple vista parecía nada más ni nada menos que otro juego como cualquier otro, pero quién hubiera pensado que desencadería."
+  },
+  {
+    "category": "Noticias",
+    "comments": 10,
+    "image": "/images/news/crying.png",
+    "title": "Se cancela la nueva trilogía de Miwashiba",
+    "postedBy": "kiki",
+    "postedAt": "Nov 20, 14:02",
+    "brief": "En un sorpresivo tweet, Miwashiba, el legendario artista y desarrollador RPG Maker comunicó el abandono de su nuevo proyecto y trilogía final..."
+  },
+  {
+    "category": "Traducción",
+    "comments": 14,
+    "title": "Nueva Traducción al Español: Oshiire",
+    "postedBy": "Noree",
+    "postedAt": "Nov 18, 14:35",
+    "image": "/images/news/oshire.png",
+    "brief": "Miedos, traumas y problemas. Oshire es tanto una visión como una crítica a nosotros mismos, sobre lo que somos, seremos, y buscamos..."
+  },
+  {
+    "category": "Traducción",
+    "comments": 10,
+    "title": "Nueva Traducción al Español: Himegoto",
+    "postedBy": "kiki",
+    "postedAt": "Nov 18, 14:02",
+    "image": "/images/news/himegoto.png",
+    "brief": "La segunda entrega de la nueva serie de Iruanko. Himegoto es la precuela directa de Jigi, una conocida entrega dentro del enigma..."
+  },
+  {
+    "category": "Anuncios",
+    "comments": 50,
+    "title": "¿Quieres colaborar con nosotros? ¡Ven!",
+    "postedBy": "Noree",
+    "postedAt": "Nov 18, 14:02",
+    "image": "/images/news/colab.png",
+    "brief": "Traductores, escritores y editores de videojuegos. ¡Ven y colabora con nuestra comunidad!"
+  },
+  {
+    "category": "Noticias",
+    "comments": 10,
+    "title": "¿Mad Father en VR?",
+    "postedBy": "kiki",
+    "postedAt": "Nov 18, 14:02",
+    "image": "/images/news/madfather.png",
+    "brief": "A través de medios oficiales, Playism confirmó que una remasterización de Mad Father en VR se encuentra en proceso..."
+  }
+]
