@@ -1,13 +1,20 @@
+'use client'
+import { useParams } from "next/navigation"
+import lista from "@/fixtures/list.json"
 export default function Paginator() {
+  const totalEntries = lista.length;
+  const pages = Math.round(totalEntries / 5);
+  const currentPage = Number(useParams<{ id: string }>());
+
   return (
     <nav aria-label="Page navigation example">
       <ul className="inline-flex space-x-px text-bold m-1 py-1 text-md">
         <PaginatorButton value={'Previous'} />
-        <PaginatorButton value={1} />
-        <PaginatorButton value={2} />
-        <PaginatorButton value={3} />
-        <PaginatorButton value={4} />
-        <PaginatorButton value={5} />
+        <PaginatorButton value={currentPage} />
+        <PaginatorButton value={currentPage} />
+        <PaginatorButton value={currentPage} />
+        <PaginatorButton value={currentPage} />
+        <PaginatorButton value={currentPage} />
         <PaginatorButton value={'Next'} />
       </ul>
     </nav>

@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "id": 30,
     "titulo": "Mochi in Frosting",
     "origen": "Estados Unidos",
@@ -12,7 +13,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/drama/mochi/1.png",
     "trama": "Mochi y Treat regresan a su hogar para encontrar su jardín destruido. Ahora Mochi regresa a Frosting para encontrar al culpable, solo para reencontrarse con su prima Juju.",
-    "imagenes": ["/categorias/drama/mochi/2.png", "/categorias/drama/mochi/3.png", "/categorias/drama/mochi/4.png"],
+    "imagenes": [
+      "/categorias/drama/mochi/2.png",
+      "/categorias/drama/mochi/3.png",
+      "/categorias/drama/mochi/4.png"
+    ],
     "finales": "1 Final",
     "duracion": "40 Minutos",
     "descargaOriginal": null,
@@ -33,7 +38,12 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/drama/traveler/1.png",
     "trama": "La joven Mizuno Mai es el resultado de la relación entre el espíritu y un ser humano. Ella se encuentra desde el principio de su vida atrapada en muchos misteriosos y curiosos mundos donde en cada uno hay seres llamados Guardianes. Pero su nacimiento rompió las reglas de Dios y su abuelo está detrás de ella, en buscar de borrar su existencia y todo a su alrededor. Debido a esto, con un poco de ayuda ella será capaz de viajar al pasado, presente y futuro, y necesitará crecer en muchas maneras para enfrentar sus miedos.",
-    "imagenes": ["/categorias/drama/traveler/2.png", "/categorias/drama/traveler/3.png", "/categorias/drama/traveler/4.png", "/categorias/drama/lunarlux/5.png"],
+    "imagenes": [
+      "/categorias/drama/traveler/2.png",
+      "/categorias/drama/traveler/3.png",
+      "/categorias/drama/traveler/4.png",
+      "/categorias/drama/lunarlux/5.png"
+    ],
     "finales": "2 Finales (Bueno y Malo)",
     "duracion": "8 Horas",
     "descargaOriginal": null,
@@ -54,7 +64,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/drama/polka/1.png",
     "trama": "Este juego tiene varias historias dentro del mismo. Los personajes principales y secundarios darán a conocer su historia hasta completar una gran historia principal, al ir uniendo todas las piezas.",
-    "imagenes": ["/categorias/drama/polka/2.png", "/categorias/drama/polka/3.png", "/categorias/drama/polka/4.png"],
+    "imagenes": [
+      "/categorias/drama/polka/2.png",
+      "/categorias/drama/polka/3.png",
+      "/categorias/drama/polka/4.png"
+    ],
     "finales": "--",
     "duracion": "6 Horas",
     "descargaOriginal": null,
@@ -75,7 +89,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/drama/rakuen/1.png",
     "trama": "Un niño que esta hospitalizado empieza a explorar el hospital, hasta adrentrarse en un hermoso mundo de fantasía. En esta aventura y en compañía de su madre, irá conociendo la historia de los otros pacientes y también los ayudará.",
-    "imagenes": ["/categorias/drama/rakuen/2.png", "/categorias/drama/rakuen/3.png", "/categorias/drama/rakuen/4.png"],
+    "imagenes": [
+      "/categorias/drama/rakuen/2.png",
+      "/categorias/drama/rakuen/3.png",
+      "/categorias/drama/rakuen/4.png"
+    ],
     "finales": "1 Final",
     "duracion": "8 - 9 Horas",
     "descargaOriginal": null,
@@ -96,7 +114,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/drama/moon/1.png",
     "trama": "La Dra. Eva Rosalene y el Dr. Neil Watts tienen un trabajo bastante interesante, dar a sus pacientes otra oportunidad de vivir y cumplir sus sueños. Eva y Neil con su tecnología pueden acceder a la mente del paciente y viajar a través de sus recuerdos con el único propósito de cumplir la última petición de su paciente. Su paciente es Johnny, un anciano que está en sus últimos días de vida y desea cumplir un sueño, ir a la Luna. ¿Será que la Dra. Eva y el Dr. Neil lograrán cumplir su petición? ¿Qué mas esconderán los recuerdos de Johnny?",
-    "imagenes": ["/categorias/drama/moon/2.png", "/categorias/drama/moon/3.png", "/categorias/drama/moon/4.png"],
+    "imagenes": [
+      "/categorias/drama/moon/2.png",
+      "/categorias/drama/moon/3.png",
+      "/categorias/drama/moon/4.png"
+    ],
     "finales": "Desconocido",
     "duracion": "Desconocido",
     "descargaOriginal": null,

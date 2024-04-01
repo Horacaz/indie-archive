@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "id": 40,
     "titulo": "Vive en la ficción, muere en la realidad",
     "origen": "Japon",
@@ -12,7 +13,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/novela/realidad/1.png",
     "trama": "Mutsu y Mikumo son dos chicos que poseen un cargo de conciencia muy grande. Mikumo aparece misteriosamente tras una larga ausencia, después de todo esto se empieza a desarrollar una trama con un mal sabor de boca.",
-    "imagenes": ["/categorias/novela/realidad/2.png", "/categorias/novela/realidad/3.png", "/categorias/novela/realidad/4.png"],
+    "imagenes": [
+      "/categorias/novela/realidad/2.png",
+      "/categorias/novela/realidad/3.png",
+      "/categorias/novela/realidad/4.png"
+    ],
     "finales": "3 Finales",
     "duracion": "10 - 20 Minutos",
     "descargaOriginal": null,
@@ -21,7 +26,7 @@
   },
   {
     "id": 41,
-    "titulo": "Hansel y Gretel (Dark Side(",
+    "titulo": "Hansel y Gretel (Dark Side)",
     "origen": "Japon",
     "categoria": "Novela Visual",
     "motor": "Tyrano Builder",
@@ -33,7 +38,12 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/novela/gretel/1.png",
     "trama": "Todos conocemos la historia de estos dos jóvenes hermanos que son abandonados o, al menos, parte de ella. ¿Qué más secretos se esconden el bosque en el que se pierden?",
-    "imagenes": ["/categorias/novela/gretel/2.png", "/categorias/novela/gretel/3.png", "/categorias/novela/gretel/4.png", "/categorias/novela/lunarlux/5.png"],
+    "imagenes": [
+      "/categorias/novela/gretel/2.png",
+      "/categorias/novela/gretel/3.png",
+      "/categorias/novela/gretel/4.png",
+      "/categorias/novela/lunarlux/5.png"
+    ],
     "finales": "5 Finales",
     "duracion": "1 - 2 Horas",
     "descargaOriginal": null,
@@ -54,7 +64,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/novela/kubitori/1.png",
     "trama": "Eres un hombre perdido en las montañas nevadas y una hermosa mujer te salva la vida. La ventisca es tan fuerte que van a pasar loa noche juntos en su cabaña. ¿La atacará él a ella o viceversa?",
-    "imagenes": ["/categorias/novela/kubitori/2.png", "/categorias/novela/kubitori/3.png", "/categorias/novela/kubitori/4.png"],
+    "imagenes": [
+      "/categorias/novela/kubitori/2.png",
+      "/categorias/novela/kubitori/3.png",
+      "/categorias/novela/kubitori/4.png"
+    ],
     "finales": "3 Finales",
     "duracion": "1 - 2 Horas",
     "descargaOriginal": null,
@@ -75,7 +89,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/novela/menhera/1.png",
     "trama": "Itarou, nuestro protagonista, se encuentra en un momento difícil de su vida el cual le lleva a tomar decisiones de las cuales pueden transformar el curso de toda su existencia. Teniendo así la expereicnia de cinco hermosas chicas las cuales tendrás que amar, o tal vez no.",
-    "imagenes": ["/categorias/novela/menhera/2.png", "/categorias/novela/menhera/3.png", "/categorias/novela/menhera/4.png"],
+    "imagenes": [
+      "/categorias/novela/menhera/2.png",
+      "/categorias/novela/menhera/3.png",
+      "/categorias/novela/menhera/4.png"
+    ],
     "finales": "11 Finales (2 cada ruta - 1 Secreto)",
     "duracion": "4 - 5 Horas",
     "descargaOriginal": null,
@@ -96,7 +114,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/novela/planet/1.png",
     "trama": "En su lecho de muerte, Utarou conoce a una chica que supuestamente vino de la luna: Tsukimi. Esta es la historia de su última, y tal vez, trsite noche de ambos.",
-    "imagenes": ["/categorias/novela/planet/2.png", "/categorias/novela/planet/3.png", "/categorias/novela/planet/4.png"],
+    "imagenes": [
+      "/categorias/novela/planet/2.png",
+      "/categorias/novela/planet/3.png",
+      "/categorias/novela/planet/4.png"
+    ],
     "finales": "3 Finales",
     "duracion": "20 minutos",
     "descargaOriginal": null,

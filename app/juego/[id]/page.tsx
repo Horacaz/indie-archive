@@ -6,7 +6,9 @@ import { useParams } from 'next/navigation'
 
 export default function Juego() {
   const params = useParams<{ id: string }>()
-  const datosJuego: PublicacionJuego = juego[Number(params.id) - 1]
+  const datosJuego = juego.find(
+    (obj) => obj.id === Number(params.id),
+  ) as PublicacionJuego
   return (
     <div className="flex flex-col rounded-md my-2 mx-12 py-2 px-12 items-center">
       <DatosPost data={datosJuego} />

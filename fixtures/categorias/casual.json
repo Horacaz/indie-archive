@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "id": 25,
     "titulo": "La Doncella Tonta",
     "origen": "Estados Unidos",
@@ -12,7 +13,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/casual/doncella/1.png",
     "trama": "Rana, una chica la cual acababa de regresar de una fiesta de Halloween, fue secuestrada por tres misteriosas muñecas parlantes que querían usar su cuerpo en un ritual para convocar a un príncipe vampiro. No queriendo ser parte de nada de eso, Rana sale corriendo y encierra a las muñecas en su propia sala del ritual. ¡Ahora debe encontrar una manera de salir de esa espeluznante casa!",
-    "imagenes": ["/categorias/casual/doncella/2.png", "/categorias/casual/doncella/3.png", "/categorias/casual/doncella/4.png"],
+    "imagenes": [
+      "/categorias/casual/doncella/2.png",
+      "/categorias/casual/doncella/3.png",
+      "/categorias/casual/doncella/4.png"
+    ],
     "finales": "2 Finales",
     "duracion": "1 Hora",
     "descargaOriginal": null,
@@ -31,9 +36,14 @@
     "escritor": "Orca",
     "traduccion": null,
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/casual/pomme/1.png",
+    "imagen": "/categorias/casual/pomme/1.jpeg",
     "trama": "Pomme es una joven rana albina que ha perdido algo importante, en su corta búsqueda para hallar lo que perdió se encontrará envuelta en una lista de encargos y dramas que la ayudarán a comprender muchas cosas de sí misma y sobre todo descubrir el paradero de lo que había extraviado.",
-    "imagenes": ["/categorias/casual/pomme/2.png", "/categorias/casual/pomme/3.png", "/categorias/casual/pomme/4.png", "/categorias/casual/lunarlux/5.png"],
+    "imagenes": [
+      "/categorias/casual/pomme/2.png",
+      "/categorias/casual/pomme/3.png",
+      "/categorias/casual/pomme/4.png",
+      "/categorias/casual/lunarlux/5.png"
+    ],
     "finales": "1 Final (A + S)",
     "duracion": "2 - 3 Horas",
     "descargaOriginal": null,
@@ -54,7 +64,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/casual/albert/1.png",
     "trama": "El genio del Dr. Krueger vuelve a brillar con sus nuevas y revolucionarias sesiones terapéuticas. Permita que el nuevo tratamiento de Krueger aborde los casos más difíciles de trastorno mental (pendiente de revisión por pares) y los miedos de nuestro siempre cambiante mundo cotidiano. La genialidad no sólo reside en las asombrosas técnicas de Krueger como terapeuta, sino también en lo que él denomina \"Terapia de los sueños\", que combina la tecnología neuronal más avanzada con sus principios terapéuticos más arraigados.",
-    "imagenes": ["/categorias/casual/albert/2.png", "/categorias/casual/albert/3.png", "/categorias/casual/albert/4.png"],
+    "imagenes": [
+      "/categorias/casual/albert/2.png",
+      "/categorias/casual/albert/3.png",
+      "/categorias/casual/albert/4.png"
+    ],
     "finales": "3 Finales",
     "duracion": "1 -2 Horas",
     "descargaOriginal": null,
@@ -75,7 +89,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/casual/treats/1.png",
     "trama": "¡Es la noche de Halloween! ¿De qué te vas a disfrazar? ¿Planeas conseguir muchos caramelos este año? ¿Vas a pasar todo el tiempo pidiendo dulces? O, tal vez, hay algo más que puedes intentar hacer en Halloween...",
-    "imagenes": ["/categorias/casual/treats/2.png", "/categorias/casual/treats/3.png", "/categorias/casual/treats/4.png"],
+    "imagenes": [
+      "/categorias/casual/treats/2.png",
+      "/categorias/casual/treats/3.png",
+      "/categorias/casual/treats/4.png"
+    ],
     "finales": "1 Final",
     "duracion": "20 - 30 Minutos",
     "descargaOriginal": null,
@@ -96,7 +114,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/casual/postcat/1.png",
     "trama": "¡Vamos hacia una ciudad de gatos y hadas! El escenario de esta historia es la ciudad de Magnaras. Una extraña y misteriosa ciudad donde magos, demonios y hadas se encuentran diariamente. Y es en esta ciudad donde vive un pequeño Cait Sith cartero, llamado Conet.",
-    "imagenes": ["/categorias/casual/postcat/2.png", "/categorias/casual/postcat/3.png", "/categorias/casual/postcat/4.png"],
+    "imagenes": [
+      "/categorias/casual/postcat/2.png",
+      "/categorias/casual/postcat/3.png",
+      "/categorias/casual/postcat/4.png"
+    ],
     "finales": "2 Finales",
     "duracion": "1 - 2 Horas",
     "descargaOriginal": null,

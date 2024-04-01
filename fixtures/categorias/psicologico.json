@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "id": 45,
     "titulo": "Dreaming Mary",
     "origen": "Japon",
@@ -12,7 +13,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/psicologico/dreaming/1.png",
     "trama": "Había una vez una joven a la cual le encantaba soñar, su nombre era Mary. Ella creaba historias increíbles y podía explorar fantásticos mundos. Ella podía hacer lo que fuera en sus sueños, le gustaba tanto soñar que nunca quería despertar. Después de todo la realidad es aburrida y tenebrosa. Cuando vives de esa manera, ¿no te gustaría adentrarte en tus sueños?",
-    "imagenes": ["/categorias/psicologico/dreaming/2.png", "/categorias/psicologico/dreaming/3.png", "/categorias/psicologico/dreaming/4.png"],
+    "imagenes": [
+      "/categorias/psicologico/dreaming/2.png",
+      "/categorias/psicologico/dreaming/3.png",
+      "/categorias/psicologico/dreaming/4.png"
+    ],
     "finales": "4 Finales",
     "duracion": "20 - 30 Minutos por Final",
     "descargaOriginal": null,
@@ -31,9 +36,14 @@
     "escritor": "Orca",
     "traduccion": "Omori-Spanish",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/psicologico/omori/1.png",
+    "imagen": "/categorias/psicologico/omori/1.gif",
     "trama": "Hola, te habla Orca. Coordinador de la traducción de Omori. Me alegra que todo haya salido bien con la traducción de este juego que ha sido reconocido por muchos como un gran juego y parte de la historia de Indie Horror RPG, el hecho de entrar de lleno en una traducción tan difícil me parece casi un sueño, ¡espero que lo disfruten!",
-    "imagenes": ["/categorias/psicologico/omori/2.png", "/categorias/psicologico/omori/3.png", "/categorias/psicologico/omori/4.png", "/categorias/psicologico/lunarlux/5.png"],
+    "imagenes": [
+      "/categorias/psicologico/omori/2.png",
+      "/categorias/psicologico/omori/3.png",
+      "/categorias/psicologico/omori/4.png",
+      "/categorias/psicologico/lunarlux/5.png"
+    ],
     "finales": "5 Finales",
     "duracion": "15 - 30 Horas",
     "descargaOriginal": null,
@@ -54,7 +64,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/psicologico/conan/1.png",
     "trama": "¿Acaso hice algo por él? Aunque él te perdone... yo no lo haré. Un joven trabajador y un pintor sin ventas se habían mudado a un viejo complejo apartamental. Con lo poco que tenían él era feliz. Hasta que aquel terrible incidente ocurrió.",
-    "imagenes": ["/categorias/psicologico/conan/2.png", "/categorias/psicologico/conan/3.png", "/categorias/psicologico/conan/4.png"],
+    "imagenes": [
+      "/categorias/psicologico/conan/2.png",
+      "/categorias/psicologico/conan/3.png",
+      "/categorias/psicologico/conan/4.png"
+    ],
     "finales": "3 Finales",
     "duracion": "4 - 5 Horas",
     "descargaOriginal": null,
@@ -75,7 +89,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/psicologico/ore/1.png",
     "trama": "Kantarou, el personaje principal, es un muchacho con amnesia. Cuando se despierta se encuentra con una chica sentada a su lado. Parece que ella lo sabe, pero...",
-    "imagenes": ["/categorias/psicologico/ore/2.png", "/categorias/psicologico/ore/3.png", "/categorias/psicologico/ore/4.png"],
+    "imagenes": [
+      "/categorias/psicologico/ore/2.png",
+      "/categorias/psicologico/ore/3.png",
+      "/categorias/psicologico/ore/4.png"
+    ],
     "finales": "6 Finales",
     "duracion": "2 Horas",
     "descargaOriginal": null,
@@ -96,7 +114,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/psicologico/makoto/1.png",
     "trama": "Watarou, el protagonista y Makoto, una chica que se sienta junto a él. Son compañeros de clase, pero jamás se habían dirigido la palabra. Un día, repentinamente Makoto muere. Watarou utiliza el Mobius para tratar de salvarla, pero...",
-    "imagenes": ["/categorias/psicologico/makoto/2.png", "/categorias/psicologico/makoto/3.png", "/categorias/psicologico/makoto/4.png"],
+    "imagenes": [
+      "/categorias/psicologico/makoto/2.png",
+      "/categorias/psicologico/makoto/3.png",
+      "/categorias/psicologico/makoto/4.png"
+    ],
     "finales": "7 Finales (6 Malos y 1 Verdadero)",
     "duracion": "1 Hora (Sacando todos los finales)",
     "descargaOriginal": null,

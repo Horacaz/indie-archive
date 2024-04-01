@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "id": 35,
     "titulo": "Mama ni Aitai",
     "origen": "Japon",
@@ -12,7 +13,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/horror/mama/1.png",
     "trama": "Al despertar en un lugar desconocido, nuestro protagonista se da cuenta de que algo no esta bien, sus brazos han sido arrebatados, no sabe dónde esta, ni quién es. Sin embargo, solo esta seguro de una cosa, quiere ver a mamá. Esta es una oscura historia sobre un protagonista cuyos brazos le han sido arrebatados, pero lleva consigo un deseo muy fuerte que lo mueve, buscar a mamá.",
-    "imagenes": ["/categorias/horror/mama/2.png", "/categorias/horror/mama/3.png", "/categorias/horror/mama/4.png"],
+    "imagenes": [
+      "/categorias/horror/mama/2.png",
+      "/categorias/horror/mama/3.png",
+      "/categorias/horror/mama/4.png"
+    ],
     "finales": "4 Finales",
     "duracion": "2 - 3 Horas",
     "descargaOriginal": null,
@@ -33,7 +38,12 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/horror/party/1.png",
     "trama": "Kaori y su hermana menor Shiho ya estaban por regresar a casa, cuando algo extraño sucedió y acaban atrapadas en una vieja y tenebrosa escuela. Buscando la manera de regresar, terminan encontrándose con espíritus de las personas que murieron en ese lugar. La única opción que tienen es encontrar la manera de volver o terminar muertas.",
-    "imagenes": ["/categorias/horror/party/2.png", "/categorias/horror/party/3.png", "/categorias/horror/party/4.png", "/categorias/horror/lunarlux/5.png"],
+    "imagenes": [
+      "/categorias/horror/party/2.png",
+      "/categorias/horror/party/3.png",
+      "/categorias/horror/party/4.png",
+      "/categorias/horror/lunarlux/5.png"
+    ],
     "finales": "10 Finales",
     "duracion": "2 Horas",
     "descargaOriginal": null,
@@ -54,7 +64,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/horror/cloe/1.png",
     "trama": "Michel d'Alembert escapa a media noche de su casa por motivos poco claros, con la ayuda de un cochero llega a una mansión abandonada, sin otro lugar a donde ir o volver, el menor ingresa en ella. ¿Quién es Cloé, y por qué pide su ayuda?",
-    "imagenes": ["/categorias/horror/cloe/2.png", "/categorias/horror/cloe/3.png", "/categorias/horror/cloe/4.png"],
+    "imagenes": [
+      "/categorias/horror/cloe/2.png",
+      "/categorias/horror/cloe/3.png",
+      "/categorias/horror/cloe/4.png"
+    ],
     "finales": "4 Finales (2 Malos, 1 Normal y 1 Verdadero)",
     "duracion": "4 - 5 Horas",
     "descargaOriginal": null,
@@ -75,7 +89,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/horror/oni/1.png",
     "trama": "Kazuya y Hiroshi terminan dentro de una mansión en la que, según Takurom está embrujada. Ya dentro, Takuro obliga a Kazuya a explorarla, pero su mejor amigo, Hiroshi, salta en su defensa y se ofrece como voluntairo. Una vez que Hiroshi explora y regresa se da cuenta que sus amigos ya no están, pensando que se habían ido trata de salir por puerta principal, pero está cerrada. Hiroshi busca una salido y se lleva una sorpresa al descubrir que la mansión se encuentra habitada por una extraña criatura de color Azul.",
-    "imagenes": ["/categorias/horror/oni/2.png", "/categorias/horror/oni/3.png", "/categorias/horror/oni/4.png"],
+    "imagenes": [
+      "/categorias/horror/oni/2.png",
+      "/categorias/horror/oni/3.png",
+      "/categorias/horror/oni/4.png"
+    ],
     "finales": "1 Final",
     "duracion": "1 - 2 Horas",
     "descargaOriginal": null,
@@ -96,7 +114,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/horror/purgatorio/1.png",
     "trama": "Enri se despierta al fin. En los alrededores no distingue más que oscuridad y un leve rojo carmesí titilando a través de sus ojos entreabiertos. \"Sólo es un sueño\", se dice así misma, pero entonces se da cuenta de la cruel realidad al sentir el duro suelo contra su rostro. Está atrapada en este lugar, aquel que conocen como \"Purgatorio\".",
-    "imagenes": ["/categorias/horror/purgatorio/2.png", "/categorias/horror/purgatorio/3.png", "/categorias/horror/purgatorio/4.png"],
+    "imagenes": [
+      "/categorias/horror/purgatorio/2.png",
+      "/categorias/horror/purgatorio/3.png",
+      "/categorias/horror/purgatorio/4.png"
+    ],
     "finales": "2 Finales",
     "duracion": "1 Hora",
     "descargaOriginal": null,

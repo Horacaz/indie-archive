@@ -1,4 +1,5 @@
-[ {
+[
+  {
     "id": 20,
     "titulo": "The Gray Garden",
     "origen": "Japon",
@@ -12,7 +13,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/aventura/gray/1.png",
     "trama": "Tras una terrible guerra entre ángeles y demonios, ambos bandos terminan llegando a un acuerdo para poder co-existir en paz y armonía. Pasa el tiempo y ahora ángeles y demonios conviven juntos. Yosafire, una demonio que ama las flroes, vive la vida sin preocupaciones junto a sus amigos. Pero un día, en el jardín, aparece un misterioso murciélago, el cual parece estar relacionado con algo que amenaza la paz de su mundo.",
-    "imagenes": ["/categorias/aventura/gray/2.png", "/categorias/aventura/gray/3.png", "/categorias/aventura/gray/4.png"],
+    "imagenes": [
+      "/categorias/aventura/gray/2.png",
+      "/categorias/aventura/gray/3.png",
+      "/categorias/aventura/gray/4.png"
+    ],
     "finales": "5 Finales (3 malos, 1 normal y 1 verdadero)",
     "duracion": "3 Horas",
     "descargaOriginal": null,
@@ -33,7 +38,12 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/aventura/seleris/1.png",
     "trama": "Seleri's Lament es un juego sobre una bruja que quiere entregarle una carta a alguien, pero las cosas no salen como ella quiere. ¡Ayúdala a entregarla!",
-    "imagenes": ["/categorias/aventura/seleris/2.png", "/categorias/aventura/seleris/3.png", "/categorias/aventura/seleris/4.png", "/categorias/aventura/lunarlux/5.png"],
+    "imagenes": [
+      "/categorias/aventura/seleris/2.png",
+      "/categorias/aventura/seleris/3.png",
+      "/categorias/aventura/seleris/4.png",
+      "/categorias/aventura/lunarlux/5.png"
+    ],
     "finales": "1 Final",
     "duracion": "1 Hora",
     "descargaOriginal": null,
@@ -54,7 +64,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/aventura/witch/1.png",
     "trama": "Mientras jugaba en las montañas, Claire Elford termina refugiándose de la lluvia en una mansión. Pronto, se da cuenta de que hay otras cuatro personas, monstruos extraños, y que además, no puede salir. En compañia de demonios, los cindo deben descubrir cómo escapar... y resolver el misterio del legendario tesoro que cumple desesl, el Corazón de Bruja.",
-    "imagenes": ["/categorias/aventura/witch/2.png", "/categorias/aventura/witch/3.png", "/categorias/aventura/witch/4.png"],
+    "imagenes": [
+      "/categorias/aventura/witch/2.png",
+      "/categorias/aventura/witch/3.png",
+      "/categorias/aventura/witch/4.png"
+    ],
     "finales": "5 Finales",
     "duracion": "Más de 12 horas",
     "descargaOriginal": null,
@@ -75,7 +89,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/aventura/ann/1.png",
     "trama": "Ann, una estudiante de arte, se encuentra atrapada en la academia cuando accidentalmente rompió una de las reglas de la academia. Con la ayuda del guardia de seguridad de la escuela, Ann trata de salir y descubrir los secretos de la academia antes de que se convierta en una residente permanente de la misma.",
-    "imagenes": ["/categorias/aventura/ann/2.png", "/categorias/aventura/ann/3.png", "/categorias/aventura/ann/4.png"],
+    "imagenes": [
+      "/categorias/aventura/ann/2.png",
+      "/categorias/aventura/ann/3.png",
+      "/categorias/aventura/ann/4.png"
+    ],
     "finales": "5 Finales + 1 Secreto Malo",
     "duracion": "3 - 4 Horas",
     "descargaOriginal": null,
@@ -96,7 +114,11 @@
     "subidoEl": "30 de Noviembre del 2023",
     "imagen": "/categorias/aventura/train/1.png",
     "trama": "Luna es una viajera que está buscando un cierto lugar. De repente, mientras viaja en tren, las personas a su alrededor desaparecen y el tren se detiene en un misterioso lugar. Ahí encuentra un reloj de bolsillo junto a unas instrucciones, debe encontrar el siguiente tren antes de que se agote el tiempo o se quedará atrapada para siempre.",
-    "imagenes": ["/categorias/aventura/train/2.png", "/categorias/aventura/train/3.png", "/categorias/aventura/train/4.png"],
+    "imagenes": [
+      "/categorias/aventura/train/2.png",
+      "/categorias/aventura/train/3.png",
+      "/categorias/aventura/train/4.png"
+    ],
     "finales": "1 Final",
     "duracion": "Más de 2 Horas",
     "descargaOriginal": null,

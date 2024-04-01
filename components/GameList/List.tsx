@@ -15,7 +15,6 @@ export default function List() {
     </>
   )
 }
-
 function GameEntry(props: GameEntryProps) {
   return (
     <div className="flex gap-4 m-2 p-4">
