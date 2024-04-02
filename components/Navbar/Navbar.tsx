@@ -5,7 +5,7 @@ export default function Navbar() {
   const [isHidden, setIsHidden] = useState(true)
   return (
     <nav>
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <div className="text-white max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <HomeTitle />
         <MobileListButton />
         <div className="flex items-center p-4 gap-4">
@@ -35,7 +35,7 @@ export default function Navbar() {
                       <DropDownListItem
                         key={c}
                         text={c}
-                        href={'/listado/' + c.toLocaleLowerCase()}
+                        href={`/listado/categoria/${c.toLocaleLowerCase()}/1`}
                       />
                     ))}
                   </ul>

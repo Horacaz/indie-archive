@@ -1,10 +1,10 @@
 import popularList from '../../fixtures/popularGames.json'
 import Image from 'next/image'
 import PopularListItem from '@/types/PopularListItem'
-import Link from 'next/link'
+
 export default function PopularGames() {
   return (
-    <div className="bg-neutral-900 rounded m-1 p-1">
+    <div className="text-white bg-neutral-900 rounded m-1 p-1">
       <h2 className="text-center text-xl font-bold my-1 py-1">
         Juegos más populares
       </h2>

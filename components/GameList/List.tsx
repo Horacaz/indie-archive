@@ -1,17 +1,22 @@
+'use client'
 import Image from 'next/image'
 import gameList from '../../fixtures/list.json'
 import GameEntryProps from '@/types/GameEntryProps'
 import Paginator from '../Paginator/Paginator'
+import { useParams } from 'next/navigation'
 
 export default function List() {
+  const totalEntries = gameList.length
+  const currentPage = Number(useParams<{ pagina: string }>().pagina)
+  const entriesToShow = gameList.slice(currentPage * 5 - 5, currentPage * 5)
   return (
     <>
-      <div className="m-1 grid grid-cols-1 divide-y divide-stone-700  bg-neutral-900 rounded">
-        {gameList.map((game) => (
+      <div className="text-white m-1 grid grid-cols-1 divide-y divide-stone-700  bg-neutral-900 rounded">
+        {entriesToShow.map((game) => (
           <GameEntry key={game.id} {...game} />
         ))}
       </div>
-      <Paginator />
+      <Paginator listAmount={totalEntries} currentPage={currentPage} />
     </>
   )
 }

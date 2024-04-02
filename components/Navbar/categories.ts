@@ -1,4 +1,5 @@
 const categorias = [
+  'Todos',
   'Acción',
   'Aventura',
   'Casual',

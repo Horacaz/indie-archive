@@ -84,7 +84,7 @@
     "url": "url"
   },
   {
-    "id": 10,
+    "id": 7,
     "title": "OneShot",
     "origin": "Estados Unidos",
     "category": "Puzzle",
@@ -100,7 +100,7 @@
     "url": "url"
   },
   {
-    "id": 11,
+    "id": 8,
     "title": "Una noche sin nombre",
     "origin": "Japon",
     "category": "Puzzle",
@@ -116,7 +116,7 @@
     "url": "url"
   },
   {
-    "id": 12,
+    "id": 9,
     "title": "Blight Dream",
     "origin": "Japon",
     "category": "Puzzle",
@@ -132,7 +132,7 @@
     "url": "url"
   },
   {
-    "id": 13,
+    "id": 10,
     "title": "Kimi ga Shine",
     "origin": "Japon",
     "category": "Puzzle",
@@ -148,7 +148,7 @@
     "url": "url"
   },
   {
-    "id": 14,
+    "id": 11,
     "title": "Re;member",
     "origin": "Japon",
     "category": "Puzzle",
@@ -164,7 +164,7 @@
     "url": "url"
   },
   {
-    "id": 15,
+    "id": 12,
     "title": "Grimm's Hollow",
     "origin": "Estados Unidos",
     "category": "Accion",
@@ -180,7 +180,7 @@
     "url": "url"
   },
   {
-    "id": 16,
+    "id": 13,
     "title": "LunarLux",
     "origin": "Estados Unidos",
     "category": "Accion",
@@ -196,7 +196,7 @@
     "url": "url"
   },
   {
-    "id": 17,
+    "id": 14,
     "title": "Pocket Mirror",
     "origin": "Japon",
     "category": "Accion",
@@ -212,7 +212,7 @@
     "url": "url"
   },
   {
-    "id": 18,
+    "id": 15,
     "title": "Fear and Hunger",
     "origin": "Rusia",
     "category": "Accion",
@@ -228,7 +228,7 @@
     "url": "url"
   },
   {
-    "id": 19,
+    "id": 16,
     "title": "I am alive",
     "origin": "Japon",
     "category": "Accion",
@@ -244,7 +244,7 @@
     "url": "url"
   },
   {
-    "id": 20,
+    "id": 17,
     "title": "The Gray Garden",
     "origin": "Japon",
     "category": "Aventura",
@@ -260,7 +260,7 @@
     "url": "url"
   },
   {
-    "id": 21,
+    "id": 18,
     "title": "Seleri's Lament",
     "origin": "República Dominicana",
     "category": "Aventura",
@@ -276,7 +276,7 @@
     "url": "url"
   },
   {
-    "id": 22,
+    "id": 19,
     "title": "Witch's Heart",
     "origin": "Japon",
     "category": "Aventura",
@@ -292,7 +292,7 @@
     "url": "url"
   },
   {
-    "id": 23,
+    "id": 20,
     "title": "Ann",
     "origin": "Indonesia",
     "category": "Aventura",
@@ -308,7 +308,7 @@
     "url": "url"
   },
   {
-    "id": 24,
+    "id": 21,
     "title": "Midnight Train",
     "origin": "España",
     "category": "Aventura",
@@ -324,7 +324,7 @@
     "url": "url"
   },
   {
-    "id": 25,
+    "id": 22,
     "title": "La Doncella Tonta",
     "origin": "Estados Unidos",
     "category": "Casual",
@@ -340,7 +340,7 @@
     "url": "url"
   },
   {
-    "id": 26,
+    "id": 23,
     "title": "La Cosa Perdida de Pomme",
     "origin": "Colombia",
     "category": "Casual",
@@ -356,7 +356,7 @@
     "url": "url"
   },
   {
-    "id": 27,
+    "id": 24,
     "title": "Terapia con el Dr. Albert Krueger",
     "origin": "Estados Unidos",
     "category": "Casual",
@@ -372,7 +372,7 @@
     "url": "url"
   },
   {
-    "id": 28,
+    "id": 25,
     "title": "Tricks N Treats",
     "origin": "Estados Unidos",
     "category": "Casual",
@@ -388,7 +388,7 @@
     "url": "url"
   },
   {
-    "id": 29,
+    "id": 26,
     "title": "Postcat Caitsith",
     "origin": "Japon",
     "category": "Casual",
@@ -404,7 +404,7 @@
     "url": "url"
   },
   {
-    "id": 30,
+    "id": 27,
     "title": "Mochi in Frosting",
     "origin": "Estados Unidos",
     "category": "Drama",
@@ -420,7 +420,7 @@
     "url": "url"
   },
   {
-    "id": 31,
+    "id": 28,
     "title": "Time Traveler",
     "origin": "Argentina",
     "category": "Drama",
@@ -436,7 +436,7 @@
     "url": "url"
   },
   {
-    "id": 32,
+    "id": 29,
     "title": "Polka",
     "origin": "Argentina",
     "category": "Drama",
@@ -452,7 +452,7 @@
     "url": "url"
   },
   {
-    "id": 33,
+    "id": 30,
     "title": "Rakuen",
     "origin": "Estados Unidos",
     "category": "Drama",
@@ -468,7 +468,7 @@
     "url": "url"
   },
   {
-    "id": 34,
+    "id": 31,
     "title": "To the Moon",
     "origin": "Estados Unidos",
     "category": "Drama",
@@ -484,7 +484,7 @@
     "url": "url"
   },
   {
-    "id": 35,
+    "id": 32,
     "title": "Mama ni Aitai",
     "origin": "Japon",
     "category": "Horror",
@@ -505,7 +505,7 @@
     "url": "url"
   },
   {
-    "id": 36,
+    "id": 33,
     "title": "Corspe Party Zero",
     "origin": "Japon",
     "category": "Horror",
@@ -521,7 +521,7 @@
     "url": "url"
   },
   {
-    "id": 37,
+    "id": 34,
     "title": "El réquiem de Cloé",
     "origin": "Japon",
     "category": "Horror",
@@ -537,7 +537,7 @@
     "url": "url"
   },
   {
-    "id": 38,
+    "id": 35,
     "title": "Ao Oni",
     "origin": "Japon",
     "category": "Horror",
@@ -553,7 +553,7 @@
     "url": "url"
   },
   {
-    "id": 39,
+    "id": 36,
     "title": "Purgatorio",
     "origin": "Japon",
     "category": "Horror",
@@ -569,7 +569,7 @@
     "url": "url"
   },
   {
-    "id": 40,
+    "id": 37,
     "title": "Vive en la ficción, muere en la realidad",
     "origin": "Japon",
     "category": "Novela Visual",
@@ -585,7 +585,7 @@
     "url": "url"
   },
   {
-    "id": 41,
+    "id": 38,
     "title": "Hansel y Gretel (Dark Side)",
     "origin": "Japon",
     "category": "Novela Visual",
@@ -601,7 +601,7 @@
     "url": "url"
   },
   {
-    "id": 42,
+    "id": 39,
     "title": "Kubitori Sarasa",
     "origin": "Japon",
     "category": "Novela Visual",
@@ -617,7 +617,7 @@
     "url": "url"
   },
   {
-    "id": 43,
+    "id": 40,
     "title": "Menhera Rafflesia",
     "origin": "Japon",
     "category": "Novela Visual",
@@ -633,7 +633,7 @@
     "url": "url"
   },
   {
-    "id": 44,
+    "id": 41,
     "title": "Tsukimi Planter",
     "origin": "Japon",
     "category": "Novela Visual",
@@ -649,7 +649,7 @@
     "url": "url"
   },
   {
-    "id": 45,
+    "id": 42,
     "title": "Dreaming Mary",
     "origin": "Japon",
     "category": "Psicológico",
@@ -665,7 +665,7 @@
     "url": "url"
   },
   {
-    "id": 46,
+    "id": 43,
     "title": "Omori",
     "origin": "Japon",
     "category": "Psicológico",
@@ -681,7 +681,7 @@
     "url": "url"
   },
   {
-    "id": 47,
+    "id": 44,
     "title": "Conan Room",
     "origin": "Japon",
     "category": "Psicológico",
@@ -697,7 +697,7 @@
     "url": "url"
   },
   {
-    "id": 48,
+    "id": 45,
     "title": "Mix Ore",
     "origin": "Japon",
     "category": "Psicológico",
@@ -712,7 +712,7 @@
     "url": "url"
   },
   {
-    "id": 49,
+    "id": 46,
     "title": "Makoto Mobius",
     "origin": "Japon",
     "category": "Psicológico",
