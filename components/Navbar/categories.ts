@@ -10,4 +10,16 @@ const categorias = [
   'Puzzles',
 ]
 
-export default categorias
+const url = [
+  'todos',
+  'accion',
+  'aventura',
+  'casual',
+  'drama',
+  'horror',
+  'novela',
+  'psicologico',
+  'puzzle',
+]
+
+export { categorias, url }

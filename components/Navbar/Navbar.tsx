@@ -1,6 +1,6 @@
 'use client'
 import { useState } from 'react'
-import categorias from './categories'
+import { categorias, url } from './categories'
 export default function Navbar() {
   const [isHidden, setIsHidden] = useState(true)
   return (
@@ -31,11 +31,11 @@ export default function Navbar() {
                     className="py-2 text-sm"
                     aria-labelledby="dropdownLargeButton"
                   >
-                    {categorias.map((c) => (
+                    {categorias.map((c, index) => (
                       <DropDownListItem
                         key={c}
                         text={c}
-                        href={`/listado/categoria/${c.toLocaleLowerCase()}/1`}
+                        href={`/listado/categoria/${url[index]}/1`}
                       />
                     ))}
                   </ul>

@@ -7,8 +7,9 @@ import { useParams } from 'next/navigation'
 
 export default function List() {
   const totalEntries = gameList.length
-  const currentPage = Number(useParams<{ pagina: string }>().pagina)
-  const entriesToShow = gameList.slice(currentPage * 5 - 5, currentPage * 5)
+  const currentPage = Number(useParams<{ pagina: string, nombre : string}>().pagina)
+  const entriesToShow: GameEntryProps[] = mapCategory(currentPage, gameList);
+  
   return (
     <>
       <div className="text-white m-1 grid grid-cols-1 divide-y divide-stone-700  bg-neutral-900 rounded">
@@ -20,6 +21,33 @@ export default function List() {
     </>
   )
 }
+
+function mapCategory (currentPage : number, gameList: GameEntryProps[]) {
+  const category = useParams<{nombre : string}>().nombre;
+  let entriesToShow: GameEntryProps[];;
+
+  if(category === "todos") {
+    entriesToShow =  gameList.slice(currentPage * 5 - 5, currentPage * 5);
+  } else {
+    const filter = gameList.filter( g => g.category.toLowerCase().startsWith(category));
+    entriesToShow = filter.slice(currentPage * 5 - 5, currentPage * 5);
+  }
+
+  return entriesToShow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 function GameEntry(props: GameEntryProps) {
   return (
     <div className="flex gap-4 m-2 p-4">
@@ -48,7 +76,7 @@ function GameEntry(props: GameEntryProps) {
             {props.game_engine}
           </span>
           <a
-            href={`listado/${props.category.toLocaleLowerCase()}`}
+            href={`../${props.category.toLocaleLowerCase()}/1`}
             className="bg-yellow-400 p-1.5 mx-1 font-bold text-black rounded hover:bg-neutral-800 hover:text-white"
           >
             {props.category}

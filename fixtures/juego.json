@@ -127,48 +127,131 @@
   },
   {
     "id": 7,
-    "titulo": "Fear and Hunger",
-    "origen": "Rusia",
-    "categoria": "Horror",
-    "motor": "RPG MAKER MV",
-    "detalle": "Este juego se basa en una Europa alternativa, en un mundo azotado por la guerra y contaminado por la influencia de viejos dioses crueles. Explora el deseo de la humanidad de perseguir a estos dioses, tanto para adorarlos como para ser superior a ellos.",
-    "creador": "Miro Haverinen",
-    "publicado": 2019,
+    "titulo": "OneShot",
+    "origen": "Estados Unidos",
+    "categoria": "Puzzle",
+    "motor": "RPG MAKER 2003",
+    "detalle": "Algo que hace muy interesante es la interacción entre el Jugador y el personaje principal. Así es, tu eres importante para la trama de este juego y debes de cuidar lo mejor que puedas al personaje de Niko. La OST de este juego es completamente original. Su arte y estilo dan un toque muy especial. Totalmente recomendado.",
+    "creador": "Mathewvq y Nightmargin",
+    "publicado": 2014,
     "escritor": "Orca",
-    "traduccion": "Dean DPR",
+    "traduccion": "Jack de Chesire",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/fear/1.png",
-    "trama": "Cuatro aventureros desdichados se adentran en \"La Fortaleza\" en busca de tesoros pero sólo hallan dolor. En sus profundidades se esconden horrores de este mundo y de otros, pues es una intersección de planos existenciales donde los nuevos dioses gobiernan a su antojo.",
-    "imagenes": ["/fear/2.png", "/fear/3.png", "/fear/4.png"],
-    "finales": "10 Finales (6 con cualquier personaje + 4 depende del personaje)",
-    "duracion": "Solo historia (9 horas) - Completo (50 horas)",
+    "imagen": "/categorias/puzzles/oneshot/1.png",
+    "trama": "Tu como jugador debes de guiar a Niko a través de un mundo misterioso utilizando objetos, personajes y el ambiente para progresar. Tu misión es ayudar a Niko y salvar ese mundo.",
+    "imagenes": [
+      "/categorias/puzzles/oneshot/2.png",
+      "/categorias/puzzles/oneshot/3.png",
+      "/categorias/puzzles/oneshot/4.png"
+    ],
+    "finales": "2 Finales",
+    "duracion": "3 Horas",
     "descargaOriginal": null,
-    "descargaEspañol": "https://drive.google.com/file/d/1G9dzDL6ckUQGFvIxLWMstSxU6xr8ITEp/view?pli=1",
-    "descargaIngles": "https://store.steampowered.com/app/1002300/Fear__Hunger/"
+    "descargaEspañol": "http://jackdecheshire.tumblr.com/post/97665125284/mathewvq-oneshot-has-been-translated-into",
+    "descargaIngles": "http://jackdecheshire.tumblr.com/post/97665125284/mathewvq-oneshot-has-been-translated-into"
   },
   {
     "id": 8,
-    "titulo": "Aconite",
-    "origen": "Asia",
-    "categoria": "Casual",
-    "motor": "RPG MAKER VX Ace",
-    "detalle": "Aconite es un juego sobre la amistad, la sinceridad y la confianza. Juego muy estético ambientado en la escolaridad.",
-    "creador": "Melcoteam",
-    "publicado": 2023,
+    "titulo": "Una noche sin nombre",
+    "origen": "Japon",
+    "categoria": "Puzzle",
+    "motor": "RPG MAKER Wolf",
+    "detalle": "Este juego es una joyita en temas de suspenso. Realizado en Wolf, nos podemos encontrar una trama de suspenso hasta el ginal, y con rutas complicadas de conseguir a menos de encontrar prueba y error. Recomendado para los fans de los RPG Maker Clásicos.",
+    "creador": "nunome",
+    "publicado": 2016,
     "escritor": "Orca",
-    "traduccion": "Heroaureo",
+    "traduccion": "Xistar",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/aconite/1.png",
-    "trama": "Momo es un niño de secundaria y su sueño es ser amigo de todos los de su clase (¡y con el tiempo, de todo el colegio!). Él afronta los nuevos días y las nuevas personas con una sonrisa y un optimismo infinito. Pero resulta que no basta con hacerse amigo de todo el mundo. SObre todo cuando su amigo de toda la vida se ha mudado a su colegio y no le gustan sus nuevos amigos...",
-    "imagenes": ["/aconite/2.png", "/aconite/3.png", "/aconite/4.png"],
-    "finales": "1 Final (Día 1)",
-    "duracion": "30 - 50 Minutos",
+    "imagen": "/categorias/puzzles/sinnombre/1.png",
+    "trama": "Este es un mundo donde brujas y demonios habitan en los confines de la realidad. Charles se encuentra bajo la lluvia, buscando refugio cuando se encuentra con una mujer en el bosque quien le pide un favor, buscar algo muy preciado para ella. En ese entonces, Charles encuentra una casa y se adentra en ella, encontrándose con una misteriosa chica.",
+    "imagenes": [
+      "/categorias/puzzles/sinnombre/2.png",
+      "/categorias/puzzles/sinnombre/3.png",
+      "/categorias/puzzles/sinnombre/4.png"
+    ],
+    "finales": "5 Finales",
+    "duracion": "1 - 2 Horas",
     "descargaOriginal": null,
-    "descargaEspañol": "https://melcoteam.itch.io/aconite-beta",
-    "descargaIngles": "https://melcoteam.itch.io/aconite-beta"
+    "descargaEspañol": "https://papixistar.blog.fc2.com/blog-entry-12.html",
+    "descargaIngles": null
   },
   {
-    "id": 15,
+    "id": 9,
+    "titulo": "Blight Dream",
+    "origen": "Japon",
+    "categoria": "Puzzle",
+    "motor": "Smile Game Builder",
+    "detalle": "Este juego toma lugar años despues de Blank Dream pero se puede jugar sin haber jugado al anterior ya que estan poco relacionados.",
+    "creador": "Kanawo (Teriyaki Tomato)",
+    "publicado": 2017,
+    "escritor": "Orca",
+    "traduccion": "Megas",
+    "subidoEl": "30 de Noviembre del 2023",
+    "imagen": "/categorias/puzzles/blankdream/1.png",
+    "trama": "Un accidente traumático hizo que Michiru Orihara no pueda mantener memorias por más de un día. Ella eventualmente aprende a conservarlas mediante el uso de un cuaderno, pero siente curiosidad por el periodo de su vida que no logra recordar. Michiru empieza a buscar pistas por la casa, pero parece que su hermano Yuu preferiría que no lo hiciera...",
+    "imagenes": [
+      "/categorias/puzzles/blankdream/2.png",
+      "/categorias/puzzles/blankdream/3.png",
+      "/categorias/puzzles/blankdream/4.png"
+    ],
+    "finales": "1 Final",
+    "duracion": "2 - 3 Horas",
+    "descargaOriginal": null,
+    "descargaEspañol": "https://mgstranslation.tumblr.com/blightdream",
+    "descargaIngles": "https://vgperson.com/games/blightdream.htm"
+  },
+  {
+    "id": 10,
+    "titulo": "Kimi ga Shine",
+    "origen": "Japon",
+    "categoria": "Puzzle",
+    "motor": "RPG MAKER MV",
+    "detalle": "Kimi ga Shine -Juego de Muerte por Mayoría-. Actualmente llega hasta el Capítulo 2 Parte Dos. Falta un último capítulo por salir y probablemente se divida también en dos partes.",
+    "creador": "Nankidai",
+    "publicado": 2017,
+    "escritor": "Orca",
+    "traduccion": "Tsumin",
+    "subidoEl": "30 de Noviembre del 2023",
+    "imagen": "/categorias/puzzles/shine/1.png",
+    "trama": "Sara Chidouin regresa a casa de la escuela tarde una noche, solo para descubrir que hay algo terriblemente mal. Cuando se da cuenta, tanto ella como su amigo Joe y otras 9 personas más están atrapados en un lugar misterioso. En medio de situaciones de vida y muerte, deben llegar a un acuerdo sobre qué deberían hacer -y quién debería morir",
+    "imagenes": [
+      "/categorias/puzzles/shine/2.png",
+      "/categorias/puzzles/shine/3.png",
+      "/categorias/puzzles/shine/4.png"
+    ],
+    "finales": "3 Finales Malos + 2 Finales Ruta",
+    "duracion": "14 - 16 Horas",
+    "descargaOriginal": null,
+    "descargaEspañol": "https://x-tsubasa-x.tumblr.com/kimigashine",
+    "descargaIngles": "http://vgperson.com/games/yourturntodie.htm"
+  },
+  {
+    "id": 11,
+    "titulo": "Re;member",
+    "origen": "Japon",
+    "categoria": "Puzzle",
+    "motor": "RPG MAKER VX",
+    "detalle": "Este juego... ¡¡¡ESTE JUEGO!!! Les recomiendo que se preparen para que se les salgan algunas lagrimillas ya que tiene una historia muy emotiva. También tiene un bonito diseño de personajes y una buena OST que queda con el ambiente del juego. Si buscan un juego que se enfoque en una buena trama, definitivamente recomiendo este juego al 100%. El horror que contiene es muy ligero.",
+    "creador": "Keespring",
+    "publicado": 2014,
+    "escritor": "Orca",
+    "traduccion": "Maca",
+    "subidoEl": "30 de Noviembre del 2023",
+    "imagen": "/categorias/puzzles/remember/1.png",
+    "trama": "Todo comienza cuando la madre de un chico llamado Huyuaki, le entrega la llave de una gran mansión que esta abandonada. SIn comprender el porque su madre tenía la llave de tal mansión, Huyuaki decide ir a investigarla. Una vez dentro de esta, empiezan a ocurrir cosas extrañas y termina atrapado dentro. A pesar de que la mansión estaba abandonada, Huyuaki se encuentra dentro de la Mansión. Ahora ambos deben de buscar la manera de salir. Más, sin embargo, aun hay muchos secretos por descubrir.",
+    "imagenes": [
+      "/categorias/puzzles/remember/2.png",
+      "/categorias/puzzles/remember/3.png",
+      "/categorias/puzzles/remember/4.png"
+    ],
+    "finales": "3 Finales (2 Malos y 1 Verdadero)",
+    "duracion": "3 horas y media - 4 horas",
+    "descargaOriginal": null,
+    "descargaEspañol": "http://macafake.tumblr.com/post/150821847227/remember",
+    "descargaIngles": "http://tosiaki7.tumblr.com/post/88612298917/re-member-translation-finished"
+  },
+  {
+    "id": 12,
     "titulo": "Grimm's Hollow",
     "origen": "Estados Unidos",
     "categoria": "Accion",
@@ -193,7 +276,7 @@
     "descargaIngles": "https://ghosthum.itch.io/grimms-hollow"
   },
   {
-    "id": 16,
+    "id": 13,
     "titulo": "LunarLux",
     "origen": "Estados Unidos",
     "categoria": "Accion",
@@ -219,7 +302,7 @@
     "descargaIngles": "https://cosmicnobab.itch.io/lunarlux"
   },
   {
-    "id": 17,
+    "id": 14,
     "titulo": "Pocket Mirror",
     "origen": "Japon",
     "categoria": "Accion",
@@ -244,7 +327,7 @@
     "descargaIngles": "http://astralshiftpro.tumblr.com/pocket-mirror"
   },
   {
-    "id": 18,
+    "id": 15,
     "titulo": "Fear and Hunger",
     "origen": "Rusia",
     "categoria": "Accion",
@@ -269,7 +352,7 @@
     "descargaIngles": "https://store.steampowered.com/app/1002300/Fear__Hunger/"
   },
   {
-    "id": 19,
+    "id": 16,
     "titulo": "I am alive",
     "origen": "Japon",
     "categoria": "Accion",
@@ -294,7 +377,7 @@
     "descargaIngles": null
   },
   {
-    "id": 20,
+    "id": 17,
     "titulo": "The Gray Garden",
     "origen": "Japon",
     "categoria": "Aventura",
@@ -319,7 +402,7 @@
     "descargaIngles": "http://adf.ly/tTaCH"
   },
   {
-    "id": 21,
+    "id": 18,
     "titulo": "Seleri's Lament",
     "origen": "República Dominicana",
     "categoria": "Aventura",
@@ -344,7 +427,7 @@
     "descargaIngles": "https://raingarita.itch.io/seleris-lament"
   },
   {
-    "id": 22,
+    "id": 19,
     "titulo": "Witch's Heart",
     "origen": "Japon",
     "categoria": "Aventura",
@@ -369,7 +452,7 @@
     "descargaIngles": "http://vgperson.com/games/witchheart.htm"
   },
   {
-    "id": 23,
+    "id": 20,
     "titulo": "Ann",
     "origen": "Indonesia",
     "categoria": "Aventura",
@@ -394,7 +477,7 @@
     "descargaIngles": "https://store.steampowered.com/app/1511270/Ann/"
   },
   {
-    "id": 24,
+    "id": 21,
     "titulo": "Midnight Train",
     "origen": "España",
     "categoria": "Aventura",
@@ -419,7 +502,7 @@
     "descargaIngles": "https://lyd1a.itch.io/midnight-train"
   },
   {
-    "id": 25,
+    "id": 22,
     "titulo": "La Doncella Tonta",
     "origen": "Estados Unidos",
     "categoria": "Casual",
@@ -444,7 +527,7 @@
     "descargaIngles": "https://lynis.itch.io/idiot-maiden"
   },
   {
-    "id": 26,
+    "id": 23,
     "titulo": "La Cosa Perdida de Pomme",
     "origen": "Colombia",
     "categoria": "Casual",
@@ -469,7 +552,7 @@
     "descargaIngles": null
   },
   {
-    "id": 27,
+    "id": 24,
     "titulo": "Terapia con el Dr. Albert Krueger",
     "origen": "Estados Unidos",
     "categoria": "Casual",
@@ -494,7 +577,7 @@
     "descargaIngles": null
   },
   {
-    "id": 28,
+    "id": 25,
     "titulo": "Tricks N Treats",
     "origen": "Estados Unidos",
     "categoria": "Casual",
@@ -519,7 +602,7 @@
     "descargaIngles": "https://arcadekitten.itch.io/tricks-n-treats"
   },
   {
-    "id": 29,
+    "id": 26,
     "titulo": "Postcat Caitsith",
     "origen": "Japon",
     "categoria": "Casual",
@@ -544,7 +627,7 @@
     "descargaIngles": null
   },
   {
-    "id": 30,
+    "id": 27,
     "titulo": "Mochi in Frosting",
     "origen": "Estados Unidos",
     "categoria": "Drama",
@@ -569,7 +652,7 @@
     "descargaIngles": "https://nomnomnami.itch.io/mochi-in-frosting"
   },
   {
-    "id": 31,
+    "id": 28,
     "titulo": "Time Traveler",
     "origen": "Argentina",
     "categoria": "Drama",
@@ -594,7 +677,7 @@
     "descargaIngles": null
   },
   {
-    "id": 32,
+    "id": 29,
     "titulo": "Polka",
     "origen": "Argentina",
     "categoria": "Drama",
@@ -619,7 +702,7 @@
     "descargaIngles": null
   },
   {
-    "id": 33,
+    "id": 30,
     "titulo": "Rakuen",
     "origen": "Estados Unidos",
     "categoria": "Drama",
@@ -644,7 +727,7 @@
     "descargaIngles": "http://store.steampowered.com/app/559210/Rakuen/"
   },
   {
-    "id": 34,
+    "id": 31,
     "titulo": "To the Moon",
     "origen": "Estados Unidos",
     "categoria": "Drama",
@@ -669,7 +752,7 @@
     "descargaIngles": null
   },
   {
-    "id": 35,
+    "id": 32,
     "titulo": "Mama ni Aitai",
     "origen": "Japon",
     "categoria": "Horror",
@@ -694,7 +777,7 @@
     "descargaIngles": null
   },
   {
-    "id": 36,
+    "id": 33,
     "titulo": "Corspe Party Zero",
     "origen": "Japon",
     "categoria": "Horror",
@@ -719,7 +802,7 @@
     "descargaIngles": "http://www.memoriesoffear.com/games_corpsepartyzero/index.html"
   },
   {
-    "id": 37,
+    "id": 34,
     "titulo": "El réquiem de Cloé",
     "origen": "Japon",
     "categoria": "Horror",
@@ -744,7 +827,7 @@
     "descargaIngles": "http://tosiaki7.tumblr.com/post/85280561912/clo%C3%A9s-requiem-finished"
   },
   {
-    "id": 38,
+    "id": 35,
     "titulo": "Ao Oni",
     "origen": "Japon",
     "categoria": "Horror",
@@ -769,7 +852,7 @@
     "descargaIngles": "http://adf.ly/vwdH6"
   },
   {
-    "id": 39,
+    "id": 36,
     "titulo": "Purgatorio",
     "origen": "Japon",
     "categoria": "Horror",
@@ -794,7 +877,7 @@
     "descargaIngles": "http://www.memoriesoffear.com/games_purgatory/index.html"
   },
   {
-    "id": 40,
+    "id": 37,
     "titulo": "Vive en la ficción, muere en la realidad",
     "origen": "Japon",
     "categoria": "Novela Visual",
@@ -819,7 +902,7 @@
     "descargaIngles": null
   },
   {
-    "id": 41,
+    "id": 38,
     "titulo": "Hansel y Gretel (Dark Side)",
     "origen": "Japon",
     "categoria": "Novela Visual",
@@ -844,7 +927,7 @@
     "descargaIngles": "https://tico-tl.tumblr.com/tagged/release"
   },
   {
-    "id": 42,
+    "id": 39,
     "titulo": "Kubitori Sarasa",
     "origen": "Japon",
     "categoria": "Novela Visual",
@@ -869,7 +952,7 @@
     "descargaIngles": "https://tico-tl.tumblr.com/tagged/release"
   },
   {
-    "id": 43,
+    "id": 40,
     "titulo": "Menhera Rafflesia",
     "origen": "Japon",
     "categoria": "Novela Visual",
@@ -894,8 +977,8 @@
     "descargaIngles": "http://www.mediafire.com/file/q5oqpokc8iimt31/menherafflesia_eng_2019215_10483.zip/file"
   },
   {
-    "id": 44,
-    "titulo": "Tsukimi Planter",
+    "id": 41,
+    "titulo": "Tsukimi Planet",
     "origen": "Japon",
     "categoria": "Novela Visual",
     "motor": "Tyrano Builder",
@@ -919,7 +1002,7 @@
     "descargaIngles": "https://terriball-tl.tumblr.com/post/133756834384/tsukimi-planet"
   },
   {
-    "id": 45,
+    "id": 42,
     "titulo": "Dreaming Mary",
     "origen": "Japon",
     "categoria": "Psicológico",
@@ -944,7 +1027,7 @@
     "descargaIngles": "http://dreaming-games.tumblr.com/post/82963012824/dreaming-mary-now-released"
   },
   {
-    "id": 46,
+    "id": 43,
     "titulo": "Omori",
     "origen": "Japon",
     "categoria": "Psicológico",
@@ -969,7 +1052,7 @@
     "descargaIngles": "https://store.steampowered.com/app/1150690/OMORI/"
   },
   {
-    "id": 47,
+    "id": 44,
     "titulo": "Conan Room",
     "origen": "Japon",
     "categoria": "Psicológico",
@@ -994,7 +1077,7 @@
     "descargaIngles": null
   },
   {
-    "id": 48,
+    "id": 45,
     "titulo": "Mix Ore",
     "origen": "Japon",
     "categoria": "Psicológico",
@@ -1019,7 +1102,7 @@
     "descargaIngles": "http://adf.ly/vKMmx"
   },
   {
-    "id": 49,
+    "id": 46,
     "titulo": "Makoto Mobius",
     "origen": "Japon",
     "categoria": "Psicológico",
@@ -1044,128 +1127,24 @@
     "descargaIngles": "http://adf.ly/uIJmd"
   },
   {
-    "id": 10,
-    "titulo": "OneShot",
-    "origen": "Estados Unidos",
-    "categoria": "Puzzle",
-    "motor": "RPG MAKER 2003",
-    "detalle": "Algo que hace muy interesante es la interacción entre el Jugador y el personaje principal. Así es, tu eres importante para la trama de este juego y debes de cuidar lo mejor que puedas al personaje de Niko. La OST de este juego es completamente original. Su arte y estilo dan un toque muy especial. Totalmente recomendado.",
-    "creador": "Mathewvq y Nightmargin",
-    "publicado": 2014,
+    "id": 47,
+    "titulo": "Aconite",
+    "origen": "Asia",
+    "categoria": "Casual",
+    "motor": "RPG MAKER VX Ace",
+    "detalle": "Aconite es un juego sobre la amistad, la sinceridad y la confianza. Juego muy estético ambientado en la escolaridad.",
+    "creador": "Melcoteam",
+    "publicado": 2023,
     "escritor": "Orca",
-    "traduccion": "Jack de Chesire",
+    "traduccion": "Heroaureo",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/oneshot/1.png",
-    "trama": "Tu como jugador debes de guiar a Niko a través de un mundo misterioso utilizando objetos, personajes y el ambiente para progresar. Tu misión es ayudar a Niko y salvar ese mundo.",
-    "imagenes": [
-      "/categorias/puzzles/oneshot/2.png",
-      "/categorias/puzzles/oneshot/3.png",
-      "/categorias/puzzles/oneshot/4.png"
-    ],
-    "finales": "2 Finales",
-    "duracion": "3 Horas",
+    "imagen": "/aconite/1.png",
+    "trama": "Momo es un niño de secundaria y su sueño es ser amigo de todos los de su clase (¡y con el tiempo, de todo el colegio!). Él afronta los nuevos días y las nuevas personas con una sonrisa y un optimismo infinito. Pero resulta que no basta con hacerse amigo de todo el mundo. SObre todo cuando su amigo de toda la vida se ha mudado a su colegio y no le gustan sus nuevos amigos...",
+    "imagenes": ["/aconite/2.png", "/aconite/3.png", "/aconite/4.png"],
+    "finales": "1 Final (Día 1)",
+    "duracion": "30 - 50 Minutos",
     "descargaOriginal": null,
-    "descargaEspañol": "http://jackdecheshire.tumblr.com/post/97665125284/mathewvq-oneshot-has-been-translated-into",
-    "descargaIngles": "http://jackdecheshire.tumblr.com/post/97665125284/mathewvq-oneshot-has-been-translated-into"
-  },
-  {
-    "id": 11,
-    "titulo": "Una noche sin nombre",
-    "origen": "Japon",
-    "categoria": "Puzzle",
-    "motor": "RPG MAKER Wolf",
-    "detalle": "Este juego es una joyita en temas de suspenso. Realizado en Wolf, nos podemos encontrar una trama de suspenso hasta el ginal, y con rutas complicadas de conseguir a menos de encontrar prueba y error. Recomendado para los fans de los RPG Maker Clásicos.",
-    "creador": "nunome",
-    "publicado": 2016,
-    "escritor": "Orca",
-    "traduccion": "Xistar",
-    "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/sinnombre/1.png",
-    "trama": "Este es un mundo donde brujas y demonios habitan en los confines de la realidad. Charles se encuentra bajo la lluvia, buscando refugio cuando se encuentra con una mujer en el bosque quien le pide un favor, buscar algo muy preciado para ella. En ese entonces, Charles encuentra una casa y se adentra en ella, encontrándose con una misteriosa chica.",
-    "imagenes": [
-      "/categorias/puzzles/sinnombre/2.png",
-      "/categorias/puzzles/sinnombre/3.png",
-      "/categorias/puzzles/sinnombre/4.png"
-    ],
-    "finales": "5 Finales",
-    "duracion": "1 - 2 Horas",
-    "descargaOriginal": null,
-    "descargaEspañol": "https://papixistar.blog.fc2.com/blog-entry-12.html",
-    "descargaIngles": null
-  },
-  {
-    "id": 12,
-    "titulo": "Blight Dream",
-    "origen": "Japon",
-    "categoria": "Puzzle",
-    "motor": "Smile Game Builder",
-    "detalle": "Este juego toma lugar años despues de Blank Dream pero se puede jugar sin haber jugado al anterior ya que estan poco relacionados.",
-    "creador": "Kanawo (Teriyaki Tomato)",
-    "publicado": 2017,
-    "escritor": "Orca",
-    "traduccion": "Megas",
-    "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/blankdream/1.png",
-    "trama": "Un accidente traumático hizo que Michiru Orihara no pueda mantener memorias por más de un día. Ella eventualmente aprende a conservarlas mediante el uso de un cuaderno, pero siente curiosidad por el periodo de su vida que no logra recordar. Michiru empieza a buscar pistas por la casa, pero parece que su hermano Yuu preferiría que no lo hiciera...",
-    "imagenes": [
-      "/categorias/puzzles/blankdream/2.png",
-      "/categorias/puzzles/blankdream/3.png",
-      "/categorias/puzzles/blankdream/4.png"
-    ],
-    "finales": "1 Final",
-    "duracion": "2 - 3 Horas",
-    "descargaOriginal": null,
-    "descargaEspañol": "https://mgstranslation.tumblr.com/blightdream",
-    "descargaIngles": "https://vgperson.com/games/blightdream.htm"
-  },
-  {
-    "id": 13,
-    "titulo": "Kimi ga Shine",
-    "origen": "Japon",
-    "categoria": "Puzzle",
-    "motor": "RPG MAKER MV",
-    "detalle": "Kimi ga Shine -Juego de Muerte por Mayoría-. Actualmente llega hasta el Capítulo 2 Parte Dos. Falta un último capítulo por salir y probablemente se divida también en dos partes.",
-    "creador": "Nankidai",
-    "publicado": 2017,
-    "escritor": "Orca",
-    "traduccion": "Tsumin",
-    "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/shine/1.png",
-    "trama": "Sara Chidouin regresa a casa de la escuela tarde una noche, solo para descubrir que hay algo terriblemente mal. Cuando se da cuenta, tanto ella como su amigo Joe y otras 9 personas más están atrapados en un lugar misterioso. En medio de situaciones de vida y muerte, deben llegar a un acuerdo sobre qué deberían hacer -y quién debería morir",
-    "imagenes": [
-      "/categorias/puzzles/shine/2.png",
-      "/categorias/puzzles/shine/3.png",
-      "/categorias/puzzles/shine/4.png"
-    ],
-    "finales": "3 Finales Malos + 2 Finales Ruta",
-    "duracion": "14 - 16 Horas",
-    "descargaOriginal": null,
-    "descargaEspañol": "https://x-tsubasa-x.tumblr.com/kimigashine",
-    "descargaIngles": "http://vgperson.com/games/yourturntodie.htm"
-  },
-  {
-    "id": 14,
-    "titulo": "Re;member",
-    "origen": "Japon",
-    "categoria": "Puzzle",
-    "motor": "RPG MAKER VX",
-    "detalle": "Este juego... ¡¡¡ESTE JUEGO!!! Les recomiendo que se preparen para que se les salgan algunas lagrimillas ya que tiene una historia muy emotiva. También tiene un bonito diseño de personajes y una buena OST que queda con el ambiente del juego. Si buscan un juego que se enfoque en una buena trama, definitivamente recomiendo este juego al 100%. El horror que contiene es muy ligero.",
-    "creador": "Keespring",
-    "publicado": 2014,
-    "escritor": "Orca",
-    "traduccion": "Maca",
-    "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/remember/1.png",
-    "trama": "Todo comienza cuando la madre de un chico llamado Huyuaki, le entrega la llave de una gran mansión que esta abandonada. SIn comprender el porque su madre tenía la llave de tal mansión, Huyuaki decide ir a investigarla. Una vez dentro de esta, empiezan a ocurrir cosas extrañas y termina atrapado dentro. A pesar de que la mansión estaba abandonada, Huyuaki se encuentra dentro de la Mansión. Ahora ambos deben de buscar la manera de salir. Más, sin embargo, aun hay muchos secretos por descubrir.",
-    "imagenes": [
-      "/categorias/puzzles/remember/2.png",
-      "/categorias/puzzles/remember/3.png",
-      "/categorias/puzzles/remember/4.png"
-    ],
-    "finales": "3 Finales (2 Malos y 1 Verdadero)",
-    "duracion": "3 horas y media - 4 horas",
-    "descargaOriginal": null,
-    "descargaEspañol": "http://macafake.tumblr.com/post/150821847227/remember",
-    "descargaIngles": "http://tosiaki7.tumblr.com/post/88612298917/re-member-translation-finished"
+    "descargaEspañol": "https://melcoteam.itch.io/aconite-beta",
+    "descargaIngles": "https://melcoteam.itch.io/aconite-beta"
   }
 ]

@@ -1,4 +1,5 @@
 import List from '@/components/GameList/List'
+import Updates from '@/components/Updates/Updates'
 import PopularGames from '@/components/PopularGames/Popular'
 
 export default function Listado() {
@@ -8,6 +9,7 @@ export default function Listado() {
         <List />
       </div>
       <div className="mx-1 px-2">
+        <Updates />
         <PopularGames />
       </div>
     </main>

@@ -634,7 +634,7 @@
   },
   {
     "id": 41,
-    "title": "Tsukimi Planter",
+    "title": "Tsukimi Planet",
     "origin": "Japon",
     "category": "Novela Visual",
     "game_engine": "Tyrano Builder",
@@ -725,6 +725,23 @@
     "uploaded_on": "30 de Noviembre del 2023",
     "image": "/categorias/psicologico/makoto/1.png",
     "description": "Watarou, el protagonista y Makoto, una chica que se sienta junto a él. Son compañeros de clase, pero jamás se habían dirigido la palabra. Un día, repentinamente Makoto muere. Watarou utiliza el Mobius para tratar de salvarla, pero...",
+    "url": "url"
+  },
+  {
+    "id": 47,
+    "title": "Aconite",
+    "origin": "Asia",
+    "category": "Casual",
+    "game_engine": "RPG MAKER VX Ace",
+    "detalle": "Aconite es un juego sobre la amistad, la sinceridad y la confianza. Juego muy estético ambientado en la escolaridad.",
+    "creator": "Melcoteam",
+    "published": 2023,
+    "escritor": "Orca",
+    "translation": "Heroaureo",
+    "uploaded_on": "30 de Noviembre del 2023",
+    "image": "/aconite/1.png",
+    "description": "Momo es un niño de secundaria y su sueño es ser amigo de todos los de su clase (¡y con el tiempo, de todo el colegio!). Él afronta los nuevos días y las nuevas personas con una sonrisa y un optimismo infinito. Pero resulta que no basta con hacerse amigo de todo el mundo. SObre todo cuando su amigo de toda la vida se ha mudado a su colegio y no le gustan sus nuevos amigos...",
+    "imagenes": ["/aconite/2.png", "/aconite/3.png", "/aconite/4.png"],
     "url": "url"
   }
 ]

@@ -4,7 +4,7 @@ import NewsEntryProps from '@/types/NewsEntryProps'
 
 export default function List() {
   return (
-    <div className="grid grid-cols-1 divide-y divide-stone-700 bg-stone-900 rounded">
+    <div className="grid grid-cols-1 divide-y divide-stone-700 bg-neutral-900 rounded">
       {newsList.map((article: NewsEntryProps) => (
         <NewsEntry key={article.title} {...article} />
       ))}

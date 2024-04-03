@@ -1,10 +1,10 @@
+/* 
 import EnConstruccion from '@/components/Building/Building'
 export default function Nosotros() {
   return <EnConstruccion />
 }
 
-/* 
-
+*/
 
 import Image from 'next/image'
 import members from './members'
@@ -70,9 +70,3 @@ type MemberCardProps = {
   imageUrl: string
   description: string
 }
-
-
-
-
-
-*/
