@@ -21,6 +21,7 @@ export default function Nosotros() {
             name={member.name}
             description={member.description}
             imageUrl={member.imageUrl}
+            key={member.name}
           />
         ))}
       </section>

@@ -10,7 +10,7 @@ export default function List() {
   const currentPage = Number(
     useParams<{ pagina: string; nombre: string }>().pagina,
   )
-  const entriesToShow: GameEntryProps[] = mapCategory(currentPage, gameList)
+  const entriesToShow: GameEntryProps[] = useCategory(currentPage, gameList)
 
   return (
     <>
@@ -24,7 +24,7 @@ export default function List() {
   )
 }
 
-function mapCategory(currentPage: number, gameList: GameEntryProps[]) {
+function useCategory(currentPage: number, gameList: GameEntryProps[]) {
   const category = useParams<{ nombre: string }>().nombre
   let entriesToShow: GameEntryProps[]
 

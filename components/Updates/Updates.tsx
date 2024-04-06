@@ -3,8 +3,8 @@ import actualizaciones from '@/fixtures/actualizaciones.json'
 export default function Updates() {
   return (
     <>
-      {actualizaciones.map((i) => (
-        <Item date={i.date} content={i.content} />
+      {actualizaciones.map((i, index) => (
+        <Item date={i.date} content={i.content} key={index} />
       ))}
     </>
   )
