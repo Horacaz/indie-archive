@@ -11,9 +11,9 @@
     "escritor": "Orca",
     "traduccion": "Eris",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/hello/hello1.png",
+    "imagen": "/hello/1.webp",
     "trama": "Luego de la desaparación de su hermano mayor, una joven solicita la ayuda de un hombre de aspecto sospechoso. Sin embargo, según él, todo está al borde de la destrucción a causa de un \"dios maligno\" causando estratos en el mundo... ¿Cómo será este \"mundo\" cuando llegue a su fin?",
-    "imagenes": ["/hello/hello2.png", "/hello/hello3.png", "/hello/hello4.png"],
+    "imagenes": ["/hello/2.webp", "/hello/3.webp", "/hello/4.webp"],
     "finales": "3 Finales",
     "duracion": "2 Horas",
     "descargaOriginal": null,
@@ -32,9 +32,13 @@
     "escritor": "Orca",
     "traduccion": null,
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/mensajeros/1.png",
+    "imagen": "/mensajeros/1.webp",
     "trama": "Tres mensajeros de diferentes naciones reciben un misterioso paquete que deberán enviar al gobernante de la tierra de la eternidad. Los mensajeros tomarán caminos separados para cumplir con su deber, sin embargo, su destino es encontrarse y emprender juntos este viaje en el que vivirán aventuras y situaciones un tanto extrañas que pondrán a prueba su capacidad para tomar buenas decisiones.",
-    "imagenes": ["/mensajeros/2.png", "/mensajeros/3.png", "/mensajeros/4.png"],
+    "imagenes": [
+      "/mensajeros/2.webp",
+      "/mensajeros/3.webp",
+      "/mensajeros/4.webp"
+    ],
     "finales": "Finales Incompletos (En Desarrollo)",
     "duracion": "15 - 20 Minutos",
     "descargaOriginal": null,
@@ -53,9 +57,9 @@
     "escritor": "Orca",
     "traduccion": "Gross",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/drown/1.png",
+    "imagen": "/drown/1.webp",
     "trama": "Una mujer llamada Ume que se encuentra en una cueva monocromática junto a un conejo, una pelota roja y dos agujeros. Recibe una carta de alguien conocido como Fu, quien le dice que para escapar de la cueva necesita profundizar más y encontrar todos los efectos.",
-    "imagenes": ["/drown/2.png", "/drown/3.png", "/drown/4.png"],
+    "imagenes": ["/drown/2.webp", "/drown/3.webp", "/drown/4.webp"],
     "finales": "4 Finales",
     "duracion": "3 - 4 Horas",
     "descargaOriginal": null,
@@ -74,9 +78,9 @@
     "escritor": "Orca",
     "traduccion": "Madotsuki",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/hanged/1.png",
+    "imagen": "/hanged/1.webp",
     "trama": "Un niño camina por la nieve, deambulando por la ciudad. Tras correr de un lugar a otro, acaba en un viejo edificio abandonado en el bosque. Aunque esperaba marcharse pronto, su mejor amigo huye debiendo enfrentarse a su juicio e ir en su búsqueda...",
-    "imagenes": ["/hanged/2.png", "/hanged/3.png", "/hanged/4.png"],
+    "imagenes": ["/hanged/2.webp", "/hanged/3.webp", "/hanged/4.webp"],
     "finales": "4 Finales (1 Bueno + 3 Malos)",
     "duracion": "3 - 4 Horas",
     "descargaOriginal": null,
@@ -95,9 +99,9 @@
     "escritor": "Orca",
     "traduccion": "OrcaWalkthrough, Cao, Celecrypt, Mr.Faq, Gellaby",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/ibremake/1.png",
+    "imagen": "/ibremake/1.webp",
     "trama": "Una niña llamada Ib visita una galería de arte con sus padres. Mientras observa las distintas obras de arte, Ib se da cuenta de repente de que está sola. Mientras busca a alguien, a cualquier persona, el museo empieza a cambiar...",
-    "imagenes": ["/ibremake/2.png", "/ibremake/3.png", "/ibremake/4.png"],
+    "imagenes": ["/ibremake/2.webp", "/ibremake/3.webp", "/ibremake/4.webp"],
     "finales": "9 Finales",
     "duracion": "5 - 6 Horas",
     "descargaOriginal": null,
@@ -116,9 +120,9 @@
     "escritor": "Orca",
     "traduccion": "Shi3kel",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/mistrick/1.png",
+    "imagen": "/mistrick/1.webp",
     "trama": "John Blanc es un convicto narcisista que se encuentra atrapado en una extraña dimensión. Poco después de su llegada, es recibido por su antiguo vecino de celda y asesino en serie ejecutado, Chase Colt. Aunque Chase afirma que John ya ha muerto, pronto descubre que se trata de una mentira malintencionada para mantener a John atrapado en este mundo. ¿Será capaz de encontrar una forma de escapar o morirá a manos de los muchos trucos de este malvado lugar?",
-    "imagenes": ["/mistrick/2.png", "/mistrick/3.png", "/mistrick/4.png"],
+    "imagenes": ["/mistrick/2.webp", "/mistrick/3.webp", "/mistrick/4.webp"],
     "finales": "3 Finales",
     "duracion": "30 - 60 Minutos",
     "descargaOriginal": null,
@@ -162,12 +166,12 @@
     "escritor": "Orca",
     "traduccion": "Xistar",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/sinnombre/1.png",
+    "imagen": "/categorias/puzzles/sinnombre/1.webp",
     "trama": "Este es un mundo donde brujas y demonios habitan en los confines de la realidad. Charles se encuentra bajo la lluvia, buscando refugio cuando se encuentra con una mujer en el bosque quien le pide un favor, buscar algo muy preciado para ella. En ese entonces, Charles encuentra una casa y se adentra en ella, encontrándose con una misteriosa chica.",
     "imagenes": [
-      "/categorias/puzzles/sinnombre/2.png",
-      "/categorias/puzzles/sinnombre/3.png",
-      "/categorias/puzzles/sinnombre/4.png"
+      "/categorias/puzzles/sinnombre/2.webp",
+      "/categorias/puzzles/sinnombre/3.webp",
+      "/categorias/puzzles/sinnombre/4.webp"
     ],
     "finales": "5 Finales",
     "duracion": "1 - 2 Horas",
@@ -187,12 +191,12 @@
     "escritor": "Orca",
     "traduccion": "Megas",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/blankdream/1.png",
+    "imagen": "/categorias/puzzles/blankdream/1.webp",
     "trama": "Un accidente traumático hizo que Michiru Orihara no pueda mantener memorias por más de un día. Ella eventualmente aprende a conservarlas mediante el uso de un cuaderno, pero siente curiosidad por el periodo de su vida que no logra recordar. Michiru empieza a buscar pistas por la casa, pero parece que su hermano Yuu preferiría que no lo hiciera...",
     "imagenes": [
-      "/categorias/puzzles/blankdream/2.png",
-      "/categorias/puzzles/blankdream/3.png",
-      "/categorias/puzzles/blankdream/4.png"
+      "/categorias/puzzles/blankdream/2.webp",
+      "/categorias/puzzles/blankdream/3.webp",
+      "/categorias/puzzles/blankdream/4.webp"
     ],
     "finales": "1 Final",
     "duracion": "2 - 3 Horas",
@@ -212,12 +216,12 @@
     "escritor": "Orca",
     "traduccion": "Tsumin",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/shine/1.png",
+    "imagen": "/categorias/puzzles/shine/1.webp",
     "trama": "Sara Chidouin regresa a casa de la escuela tarde una noche, solo para descubrir que hay algo terriblemente mal. Cuando se da cuenta, tanto ella como su amigo Joe y otras 9 personas más están atrapados en un lugar misterioso. En medio de situaciones de vida y muerte, deben llegar a un acuerdo sobre qué deberían hacer -y quién debería morir",
     "imagenes": [
-      "/categorias/puzzles/shine/2.png",
-      "/categorias/puzzles/shine/3.png",
-      "/categorias/puzzles/shine/4.png"
+      "/categorias/puzzles/shine/2.webp",
+      "/categorias/puzzles/shine/3.webp",
+      "/categorias/puzzles/shine/4.webp"
     ],
     "finales": "3 Finales Malos + 2 Finales Ruta",
     "duracion": "14 - 16 Horas",
@@ -237,12 +241,12 @@
     "escritor": "Orca",
     "traduccion": "Maca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/puzzles/remember/1.png",
+    "imagen": "/categorias/puzzles/remember/1.webp",
     "trama": "Todo comienza cuando la madre de un chico llamado Huyuaki, le entrega la llave de una gran mansión que esta abandonada. SIn comprender el porque su madre tenía la llave de tal mansión, Huyuaki decide ir a investigarla. Una vez dentro de esta, empiezan a ocurrir cosas extrañas y termina atrapado dentro. A pesar de que la mansión estaba abandonada, Huyuaki se encuentra dentro de la Mansión. Ahora ambos deben de buscar la manera de salir. Más, sin embargo, aun hay muchos secretos por descubrir.",
     "imagenes": [
-      "/categorias/puzzles/remember/2.png",
-      "/categorias/puzzles/remember/3.png",
-      "/categorias/puzzles/remember/4.png"
+      "/categorias/puzzles/remember/2.webp",
+      "/categorias/puzzles/remember/3.webp",
+      "/categorias/puzzles/remember/4.webp"
     ],
     "finales": "3 Finales (2 Malos y 1 Verdadero)",
     "duracion": "3 horas y media - 4 horas",
@@ -262,12 +266,12 @@
     "escritor": "Orca",
     "traduccion": "Orca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/accion/grimm/1.png",
+    "imagen": "/categorias/accion/grimm/1.webp",
     "trama": "Cuando Lavender se despertó esta mañana, no esperaba estar rodeada de una multitud de extraños enmascarados con pastel y globos. Despúes de todo, no era su cumpleaños; y esta no era su casa. Ella pensó un plan para encontrar a su hermano y escapar de la gente extravagante del vacío, pero ¿está preparada para las graves consecuencias?",
     "imagenes": [
-      "/categorias/accion/grimm/2.png",
-      "/categorias/accion/grimm/3.png",
-      "/categorias/accion/grimm/4.png"
+      "/categorias/accion/grimm/2.webp",
+      "/categorias/accion/grimm/3.webp",
+      "/categorias/accion/grimm/4.webp"
     ],
     "finales": "4 Finales",
     "duracion": "3 - 4 Horas",
@@ -287,13 +291,13 @@
     "escritor": "Orca",
     "traduccion": "Orca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/accion/lunarlux/1.png",
+    "imagen": "/categorias/accion/lunarlux/1.webp",
     "trama": "Es el año 30XX, una época en la que la humanidad ha colonizado y terraforma con éxito la luna. Experimenta una refrescante aventura RPG de ciencia ficción en LunarLux; una historia de rendención, conocimiento, ciencia y familia. ¡Únete a Bella, una Guerrera Lunar y su compañera robot, Tetra, en su búsqueda para proteger a la gente de Luna de los misteriosos Murks! Explora y descubre los secretos de la luna colonizada: ¡Luna!",
     "imagenes": [
-      "/categorias/accion/lunarlux/2.png",
-      "/categorias/accion/lunarlux/3.png",
-      "/categorias/accion/lunarlux/4.png",
-      "/categorias/accion/lunarlux/5.png"
+      "/categorias/accion/lunarlux/2.webp",
+      "/categorias/accion/lunarlux/3.webp",
+      "/categorias/accion/lunarlux/4.webp",
+      "/categorias/accion/lunarlux/5.webp"
     ],
     "finales": "1 Final",
     "duracion": "1 - 2 Horas",
@@ -313,12 +317,12 @@
     "escritor": "Orca",
     "traduccion": "Kurone",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/accion/pocketmirror/1.png",
+    "imagen": "/categorias/accion/pocket/1.webp",
     "trama": "Una chica despierta de un sueño, en una cama de rosas. Para descubrir quien es ella y su nombre, esta empiza a explorar por el extraño lugar en busca de respuesta. Su único recuerdo que da pistas sobre su identidad es un espejo de bolsillo.",
     "imagenes": [
-      "/categorias/accion/pocketmirror/2.png",
-      "/categorias/accion/pocketmirror/3.png",
-      "/categorias/accion/pocketmirror/4.png"
+      "/categorias/accion/pocket/2.webp",
+      "/categorias/accion/pocket/3.webp",
+      "/categorias/accion/pocket/4.webp"
     ],
     "finales": "6 Finales",
     "duracion": "5 - 6 Horas",
@@ -338,12 +342,12 @@
     "escritor": "Orca",
     "traduccion": "Dean DPR",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/accion/fear/1.png",
+    "imagen": "/categorias/accion/fear/1.webp",
     "trama": "Cuatro aventureros desdichados se adentran en \"La Fortaleza\" en busca de tesoros pero sólo hallan dolor. En sus profundidades se esconden horrores de este mundo y de otros, pues es una intersección de planos existenciales donde los nuevos dioses gobiernan a su antojo.",
     "imagenes": [
-      "/categorias/accion/fear/2.png",
-      "/categorias/accion/fear/3.png",
-      "/categorias/accion/fear/4.png"
+      "/categorias/accion/fear/2.webp",
+      "/categorias/accion/fear/3.webp",
+      "/categorias/accion/fear/4.webp"
     ],
     "finales": "10 Finales (6 con cualquier personaje + 4 depende del personaje)",
     "duracion": "Solo historia (9 horas) - Completo (50 horas)",
@@ -363,12 +367,12 @@
     "escritor": "Orca",
     "traduccion": "Xistar",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/accion/alive/1.png",
+    "imagen": "/categorias/accion/alive/1.webp",
     "trama": "El protagonista, Reita, un día se despertó en el salón de clases, y se dio cuenta de que estaba totalmente solo. Sintiéndose totalmente extraño e invadido por un sentimiento de desolación, comenzó a recorrer los pasillos de la escuela. Encontrándose allí con cosas totalmente inexplicables.",
     "imagenes": [
       "/categorias/accion/alive/2.png",
-      "/categorias/accion/alive/3.png",
-      "/categorias/accion/alive/4.png"
+      "/categorias/accion/alive/3.webp",
+      "/categorias/accion/alive/4.webp"
     ],
     "finales": "3 Finales",
     "duracion": "2 - 3 Horas",
@@ -392,8 +396,8 @@
     "trama": "Tras una terrible guerra entre ángeles y demonios, ambos bandos terminan llegando a un acuerdo para poder co-existir en paz y armonía. Pasa el tiempo y ahora ángeles y demonios conviven juntos. Yosafire, una demonio que ama las flroes, vive la vida sin preocupaciones junto a sus amigos. Pero un día, en el jardín, aparece un misterioso murciélago, el cual parece estar relacionado con algo que amenaza la paz de su mundo.",
     "imagenes": [
       "/categorias/aventura/gray/2.png",
-      "/categorias/aventura/gray/3.png",
-      "/categorias/aventura/gray/4.png"
+      "/categorias/aventura/gray/3.webp",
+      "/categorias/aventura/gray/4.webp"
     ],
     "finales": "5 Finales (3 malos, 1 normal y 1 verdadero)",
     "duracion": "3 Horas",
@@ -413,12 +417,12 @@
     "escritor": "Orca",
     "traduccion": null,
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/aventura/seleris/1.png",
+    "imagen": "/categorias/aventura/seleris/1.webp",
     "trama": "Seleri's Lament es un juego sobre una bruja que quiere entregarle una carta a alguien, pero las cosas no salen como ella quiere. ¡Ayúdala a entregarla!",
     "imagenes": [
-      "/categorias/aventura/seleris/2.png",
-      "/categorias/aventura/seleris/3.png",
-      "/categorias/aventura/seleris/4.png"
+      "/categorias/aventura/seleris/2.webp",
+      "/categorias/aventura/seleris/3.webp",
+      "/categorias/aventura/seleris/4.webp"
     ],
     "finales": "1 Final",
     "duracion": "1 Hora",
@@ -438,12 +442,12 @@
     "escritor": "Orca",
     "traduccion": "Tsumin",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/aventura/witch/1.png",
+    "imagen": "/categorias/aventura/witch/1.webp",
     "trama": "Mientras jugaba en las montañas, Claire Elford termina refugiándose de la lluvia en una mansión. Pronto, se da cuenta de que hay otras cuatro personas, monstruos extraños, y que además, no puede salir. En compañia de demonios, los cindo deben descubrir cómo escapar... y resolver el misterio del legendario tesoro que cumple desesl, el Corazón de Bruja.",
     "imagenes": [
-      "/categorias/aventura/witch/2.png",
-      "/categorias/aventura/witch/3.png",
-      "/categorias/aventura/witch/4.png"
+      "/categorias/aventura/witch/2.webp",
+      "/categorias/aventura/witch/3.webp",
+      "/categorias/aventura/witch/4.webp"
     ],
     "finales": "5 Finales",
     "duracion": "Más de 12 horas",
@@ -463,12 +467,12 @@
     "escritor": "Orca",
     "traduccion": "Orca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/aventura/ann/1.png",
+    "imagen": "/categorias/aventura/ann/1.webp",
     "trama": "Ann, una estudiante de arte, se encuentra atrapada en la academia cuando accidentalmente rompió una de las reglas de la academia. Con la ayuda del guardia de seguridad de la escuela, Ann trata de salir y descubrir los secretos de la academia antes de que se convierta en una residente permanente de la misma.",
     "imagenes": [
-      "/categorias/aventura/ann/2.png",
-      "/categorias/aventura/ann/3.png",
-      "/categorias/aventura/ann/4.png"
+      "/categorias/aventura/ann/2.webp",
+      "/categorias/aventura/ann/3.webp",
+      "/categorias/aventura/ann/4.webp"
     ],
     "finales": "5 Finales + 1 Secreto Malo",
     "duracion": "3 - 4 Horas",
@@ -488,12 +492,12 @@
     "escritor": "Orca",
     "traduccion": null,
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/aventura/train/1.png",
+    "imagen": "/categorias/aventura/train/1.webp",
     "trama": "Luna es una viajera que está buscando un cierto lugar. De repente, mientras viaja en tren, las personas a su alrededor desaparecen y el tren se detiene en un misterioso lugar. Ahí encuentra un reloj de bolsillo junto a unas instrucciones, debe encontrar el siguiente tren antes de que se agote el tiempo o se quedará atrapada para siempre.",
     "imagenes": [
-      "/categorias/aventura/train/2.png",
-      "/categorias/aventura/train/3.png",
-      "/categorias/aventura/train/4.png"
+      "/categorias/aventura/train/2.webp",
+      "/categorias/aventura/train/3.webp",
+      "/categorias/aventura/train/4.webp"
     ],
     "finales": "1 Final",
     "duracion": "Más de 2 Horas",
@@ -513,12 +517,12 @@
     "escritor": "Orca",
     "traduccion": "Noree",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/casual/doncella/1.png",
+    "imagen": "/categorias/casual/doncella/1.webp",
     "trama": "Rana, una chica la cual acababa de regresar de una fiesta de Halloween, fue secuestrada por tres misteriosas muñecas parlantes que querían usar su cuerpo en un ritual para convocar a un príncipe vampiro. No queriendo ser parte de nada de eso, Rana sale corriendo y encierra a las muñecas en su propia sala del ritual. ¡Ahora debe encontrar una manera de salir de esa espeluznante casa!",
     "imagenes": [
-      "/categorias/casual/doncella/2.jpg",
-      "/categorias/casual/doncella/3.png",
-      "/categorias/casual/doncella/4.png"
+      "/categorias/casual/doncella/2.webp",
+      "/categorias/casual/doncella/3.webp",
+      "/categorias/casual/doncella/4.webp"
     ],
     "finales": "2 Finales",
     "duracion": "1 Hora",
@@ -538,12 +542,12 @@
     "escritor": "Orca",
     "traduccion": null,
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/casual/pomme/1.jpeg",
+    "imagen": "/categorias/casual/pomme/1.webp",
     "trama": "Pomme es una joven rana albina que ha perdido algo importante, en su corta búsqueda para hallar lo que perdió se encontrará envuelta en una lista de encargos y dramas que la ayudarán a comprender muchas cosas de sí misma y sobre todo descubrir el paradero de lo que había extraviado.",
     "imagenes": [
-      "/categorias/casual/pomme/2.png",
-      "/categorias/casual/pomme/3.png",
-      "/categorias/casual/pomme/4.png"
+      "/categorias/casual/pomme/2.webp",
+      "/categorias/casual/pomme/3.webp",
+      "/categorias/casual/pomme/4.webp"
     ],
     "finales": "1 Final (A + S)",
     "duracion": "2 - 3 Horas",
@@ -563,12 +567,12 @@
     "escritor": "Orca",
     "traduccion": "Gambas",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/casual/albert/1.png",
+    "imagen": "/categorias/casual/albert/1.webp",
     "trama": "El genio del Dr. Krueger vuelve a brillar con sus nuevas y revolucionarias sesiones terapéuticas. Permita que el nuevo tratamiento de Krueger aborde los casos más difíciles de trastorno mental (pendiente de revisión por pares) y los miedos de nuestro siempre cambiante mundo cotidiano. La genialidad no sólo reside en las asombrosas técnicas de Krueger como terapeuta, sino también en lo que él denomina \"Terapia de los sueños\", que combina la tecnología neuronal más avanzada con sus principios terapéuticos más arraigados.",
     "imagenes": [
-      "/categorias/casual/albert/2.png",
-      "/categorias/casual/albert/3.png",
-      "/categorias/casual/albert/4.png"
+      "/categorias/casual/albert/2.webp",
+      "/categorias/casual/albert/3.webp",
+      "/categorias/casual/albert/4.webp"
     ],
     "finales": "3 Finales",
     "duracion": "1 -2 Horas",
@@ -588,12 +592,12 @@
     "escritor": "Orca",
     "traduccion": "Noree",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/casual/treats/1.png",
+    "imagen": "/categorias/casual/treats/1.webp",
     "trama": "¡Es la noche de Halloween! ¿De qué te vas a disfrazar? ¿Planeas conseguir muchos caramelos este año? ¿Vas a pasar todo el tiempo pidiendo dulces? O, tal vez, hay algo más que puedes intentar hacer en Halloween...",
     "imagenes": [
-      "/categorias/casual/treats/2.png",
-      "/categorias/casual/treats/3.png",
-      "/categorias/casual/treats/4.png"
+      "/categorias/casual/treats/2.webp",
+      "/categorias/casual/treats/3.webp",
+      "/categorias/casual/treats/4.webp"
     ],
     "finales": "1 Final",
     "duracion": "20 - 30 Minutos",
@@ -613,12 +617,12 @@
     "escritor": "Orca",
     "traduccion": "Xistar",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/casual/postcat/1.png",
+    "imagen": "/categorias/casual/postcat/1.webp",
     "trama": "¡Vamos hacia una ciudad de gatos y hadas! El escenario de esta historia es la ciudad de Magnaras. Una extraña y misteriosa ciudad donde magos, demonios y hadas se encuentran diariamente. Y es en esta ciudad donde vive un pequeño Cait Sith cartero, llamado Conet.",
     "imagenes": [
-      "/categorias/casual/postcat/2.png",
-      "/categorias/casual/postcat/3.png",
-      "/categorias/casual/postcat/4.png"
+      "/categorias/casual/postcat/2.webp",
+      "/categorias/casual/postcat/3.webp",
+      "/categorias/casual/postcat/4.webp"
     ],
     "finales": "2 Finales",
     "duracion": "1 - 2 Horas",
@@ -638,12 +642,12 @@
     "escritor": "Orca",
     "traduccion": "Maca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/drama/mochi/1.png",
+    "imagen": "/categorias/drama/mochi/1.webp",
     "trama": "Mochi y Treat regresan a su hogar para encontrar su jardín destruido. Ahora Mochi regresa a Frosting para encontrar al culpable, solo para reencontrarse con su prima Juju.",
     "imagenes": [
-      "/categorias/drama/mochi/2.png",
-      "/categorias/drama/mochi/3.png",
-      "/categorias/drama/mochi/4.png"
+      "/categorias/drama/mochi/2.webp",
+      "/categorias/drama/mochi/3.webp",
+      "/categorias/drama/mochi/4.webp"
     ],
     "finales": "1 Final",
     "duracion": "40 Minutos",
@@ -667,7 +671,7 @@
     "trama": "La joven Mizuno Mai es el resultado de la relación entre el espíritu y un ser humano. Ella se encuentra desde el principio de su vida atrapada en muchos misteriosos y curiosos mundos donde en cada uno hay seres llamados Guardianes. Pero su nacimiento rompió las reglas de Dios y su abuelo está detrás de ella, en buscar de borrar su existencia y todo a su alrededor. Debido a esto, con un poco de ayuda ella será capaz de viajar al pasado, presente y futuro, y necesitará crecer en muchas maneras para enfrentar sus miedos.",
     "imagenes": [
       "/categorias/drama/traveler/2.png",
-      "/categorias/drama/traveler/3.png",
+      "/categorias/drama/traveler/3.webp",
       "/categorias/drama/traveler/4.png"
     ],
     "finales": "2 Finales (Bueno y Malo)",
@@ -688,12 +692,12 @@
     "escritor": "Orca",
     "traduccion": null,
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/drama/polka/1.png",
+    "imagen": "/categorias/drama/polka/1.webp",
     "trama": "Este juego tiene varias historias dentro del mismo. Los personajes principales y secundarios darán a conocer su historia hasta completar una gran historia principal, al ir uniendo todas las piezas.",
     "imagenes": [
-      "/categorias/drama/polka/2.png",
-      "/categorias/drama/polka/3.png",
-      "/categorias/drama/polka/4.png"
+      "/categorias/drama/polka/2.webp",
+      "/categorias/drama/polka/3.webp",
+      "/categorias/drama/polka/4.webp"
     ],
     "finales": "--",
     "duracion": "6 Horas",
@@ -713,12 +717,12 @@
     "escritor": "Orca",
     "traduccion": "Flereous",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/drama/rakuen/1.png",
+    "imagen": "/categorias/drama/rakuen/1.webp",
     "trama": "Un niño que esta hospitalizado empieza a explorar el hospital, hasta adrentrarse en un hermoso mundo de fantasía. En esta aventura y en compañía de su madre, irá conociendo la historia de los otros pacientes y también los ayudará.",
     "imagenes": [
-      "/categorias/drama/rakuen/2.png",
-      "/categorias/drama/rakuen/3.png",
-      "/categorias/drama/rakuen/4.png"
+      "/categorias/drama/rakuen/2.webp",
+      "/categorias/drama/rakuen/3.webp",
+      "/categorias/drama/rakuen/4.webp"
     ],
     "finales": "1 Final",
     "duracion": "8 - 9 Horas",
@@ -738,11 +742,11 @@
     "escritor": "Orca",
     "traduccion": null,
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/drama/moon/1.png",
+    "imagen": "/categorias/drama/moon/1.webp",
     "trama": "La Dra. Eva Rosalene y el Dr. Neil Watts tienen un trabajo bastante interesante, dar a sus pacientes otra oportunidad de vivir y cumplir sus sueños. Eva y Neil con su tecnología pueden acceder a la mente del paciente y viajar a través de sus recuerdos con el único propósito de cumplir la última petición de su paciente. Su paciente es Johnny, un anciano que está en sus últimos días de vida y desea cumplir un sueño, ir a la Luna. ¿Será que la Dra. Eva y el Dr. Neil lograrán cumplir su petición? ¿Qué mas esconderán los recuerdos de Johnny?",
     "imagenes": [
-      "/categorias/drama/moon/2.jpg",
-      "/categorias/drama/moon/3.jpg",
+      "/categorias/drama/moon/2.webp",
+      "/categorias/drama/moon/3.webp",
       "/categorias/drama/moon/4.png"
     ],
     "finales": "Desconocido",
@@ -763,12 +767,12 @@
     "escritor": "Orca",
     "traduccion": "Xistar",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/horror/mama/1.png",
+    "imagen": "/categorias/horror/mama/1.webp",
     "trama": "Al despertar en un lugar desconocido, nuestro protagonista se da cuenta de que algo no esta bien, sus brazos han sido arrebatados, no sabe dónde esta, ni quién es. Sin embargo, solo esta seguro de una cosa, quiere ver a mamá. Esta es una oscura historia sobre un protagonista cuyos brazos le han sido arrebatados, pero lleva consigo un deseo muy fuerte que lo mueve, buscar a mamá.",
     "imagenes": [
-      "/categorias/horror/mama/2.png",
-      "/categorias/horror/mama/3.png",
-      "/categorias/horror/mama/4.png"
+      "/categorias/horror/mama/2.webp",
+      "/categorias/horror/mama/3.webp",
+      "/categorias/horror/mama/4.webp"
     ],
     "finales": "4 Finales",
     "duracion": "2 - 3 Horas",
@@ -788,7 +792,7 @@
     "escritor": "Orca",
     "traduccion": "Maca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/horror/party/1.png",
+    "imagen": "/categorias/horror/party/1.webp",
     "trama": "Kaori y su hermana menor Shiho ya estaban por regresar a casa, cuando algo extraño sucedió y acaban atrapadas en una vieja y tenebrosa escuela. Buscando la manera de regresar, terminan encontrándose con espíritus de las personas que murieron en ese lugar. La única opción que tienen es encontrar la manera de volver o terminar muertas.",
     "imagenes": [
       "/categorias/horror/party/2.png",
@@ -813,12 +817,12 @@
     "escritor": "Orca",
     "traduccion": "Akumu no Shoujo",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/horror/cloe/1.png",
+    "imagen": "/categorias/horror/cloe/1.webp",
     "trama": "Michel d'Alembert escapa a media noche de su casa por motivos poco claros, con la ayuda de un cochero llega a una mansión abandonada, sin otro lugar a donde ir o volver, el menor ingresa en ella. ¿Quién es Cloé, y por qué pide su ayuda?",
     "imagenes": [
-      "/categorias/horror/cloe/2.png",
-      "/categorias/horror/cloe/3.png",
-      "/categorias/horror/cloe/4.png"
+      "/categorias/horror/cloe/2.webp",
+      "/categorias/horror/cloe/3.webp",
+      "/categorias/horror/cloe/4.webp"
     ],
     "finales": "4 Finales (2 Malos, 1 Normal y 1 Verdadero)",
     "duracion": "4 - 5 Horas",
@@ -838,12 +842,12 @@
     "escritor": "Orca",
     "traduccion": "Akex8cr",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/horror/oni/1.png",
+    "imagen": "/categorias/horror/oni/1.webp",
     "trama": "Kazuya y Hiroshi terminan dentro de una mansión en la que, según Takurom está embrujada. Ya dentro, Takuro obliga a Kazuya a explorarla, pero su mejor amigo, Hiroshi, salta en su defensa y se ofrece como voluntairo. Una vez que Hiroshi explora y regresa se da cuenta que sus amigos ya no están, pensando que se habían ido trata de salir por puerta principal, pero está cerrada. Hiroshi busca una salido y se lleva una sorpresa al descubrir que la mansión se encuentra habitada por una extraña criatura de color Azul.",
     "imagenes": [
-      "/categorias/horror/oni/2.png",
-      "/categorias/horror/oni/3.png",
-      "/categorias/horror/oni/4.png"
+      "/categorias/horror/oni/2.webp",
+      "/categorias/horror/oni/3.webp",
+      "/categorias/horror/oni/4.webp"
     ],
     "finales": "1 Final",
     "duracion": "1 - 2 Horas",
@@ -863,12 +867,12 @@
     "escritor": "Orca",
     "traduccion": "Black Velvet",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/horror/purgatorio/1.png",
+    "imagen": "/categorias/horror/purgatorio/1.webp",
     "trama": "Enri se despierta al fin. En los alrededores no distingue más que oscuridad y un leve rojo carmesí titilando a través de sus ojos entreabiertos. \"Sólo es un sueño\", se dice así misma, pero entonces se da cuenta de la cruel realidad al sentir el duro suelo contra su rostro. Está atrapada en este lugar, aquel que conocen como \"Purgatorio\".",
     "imagenes": [
-      "/categorias/horror/purgatorio/2.png",
-      "/categorias/horror/purgatorio/3.png",
-      "/categorias/horror/purgatorio/4.png"
+      "/categorias/horror/purgatorio/2.webp",
+      "/categorias/horror/purgatorio/3.webp",
+      "/categorias/horror/purgatorio/4.webp"
     ],
     "finales": "2 Finales",
     "duracion": "1 Hora",
@@ -891,9 +895,9 @@
     "imagen": "/categorias/novela/realidad/1.png",
     "trama": "Mutsu y Mikumo son dos chicos que poseen un cargo de conciencia muy grande. Mikumo aparece misteriosamente tras una larga ausencia, después de todo esto se empieza a desarrollar una trama con un mal sabor de boca.",
     "imagenes": [
-      "/categorias/novela/realidad/2.png",
-      "/categorias/novela/realidad/3.png",
-      "/categorias/novela/realidad/4.png"
+      "/categorias/novela/realidad/2.webp",
+      "/categorias/novela/realidad/3.webp",
+      "/categorias/novela/realidad/4.webp"
     ],
     "finales": "3 Finales",
     "duracion": "10 - 20 Minutos",
@@ -913,12 +917,12 @@
     "escritor": "Orca",
     "traduccion": "White Novels",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/novela/gretel/1.png",
+    "imagen": "/categorias/novela/gretel/1.webp",
     "trama": "Todos conocemos la historia de estos dos jóvenes hermanos que son abandonados o, al menos, parte de ella. ¿Qué más secretos se esconden el bosque en el que se pierden?",
     "imagenes": [
-      "/categorias/novela/gretel/2.png",
-      "/categorias/novela/gretel/3.png",
-      "/categorias/novela/gretel/4.png"
+      "/categorias/novela/gretel/2.webp",
+      "/categorias/novela/gretel/3.webp",
+      "/categorias/novela/gretel/4.webp"
     ],
     "finales": "5 Finales",
     "duracion": "1 - 2 Horas",
@@ -938,12 +942,12 @@
     "escritor": "Orca",
     "traduccion": "White Novels",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/novela/kubitori/1.png",
+    "imagen": "/categorias/novela/kubitori/1.webp",
     "trama": "Eres un hombre perdido en las montañas nevadas y una hermosa mujer te salva la vida. La ventisca es tan fuerte que van a pasar loa noche juntos en su cabaña. ¿La atacará él a ella o viceversa?",
     "imagenes": [
-      "/categorias/novela/kubitori/2.png",
-      "/categorias/novela/kubitori/3.png",
-      "/categorias/novela/kubitori/4.png"
+      "/categorias/novela/kubitori/2.webp",
+      "/categorias/novela/kubitori/3.webp",
+      "/categorias/novela/kubitori/4.webp"
     ],
     "finales": "3 Finales",
     "duracion": "1 - 2 Horas",
@@ -963,12 +967,12 @@
     "escritor": "Orca",
     "traduccion": "Orca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/novela/menhera/1.png",
+    "imagen": "/categorias/novela/menhera/1.webp",
     "trama": "Itarou, nuestro protagonista, se encuentra en un momento difícil de su vida el cual le lleva a tomar decisiones de las cuales pueden transformar el curso de toda su existencia. Teniendo así la expereicnia de cinco hermosas chicas las cuales tendrás que amar, o tal vez no.",
     "imagenes": [
-      "/categorias/novela/menhera/2.png",
-      "/categorias/novela/menhera/3.png",
-      "/categorias/novela/menhera/4.png"
+      "/categorias/novela/menhera/2.webp",
+      "/categorias/novela/menhera/3.webp",
+      "/categorias/novela/menhera/4.webp"
     ],
     "finales": "11 Finales (2 cada ruta - 1 Secreto)",
     "duracion": "4 - 5 Horas",
@@ -988,12 +992,12 @@
     "escritor": "Orca",
     "traduccion": "Orca",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/novela/planet/1.png",
+    "imagen": "/categorias/novela/planet/1.webp",
     "trama": "En su lecho de muerte, Utarou conoce a una chica que supuestamente vino de la luna: Tsukimi. Esta es la historia de su última, y tal vez, trsite noche de ambos.",
     "imagenes": [
-      "/categorias/novela/planet/2.png",
-      "/categorias/novela/planet/3.png",
-      "/categorias/novela/planet/4.png"
+      "/categorias/novela/planet/2.webp",
+      "/categorias/novela/planet/3.webp",
+      "/categorias/novela/planet/4.webp"
     ],
     "finales": "3 Finales",
     "duracion": "20 minutos",
@@ -1013,12 +1017,12 @@
     "escritor": "Orca",
     "traduccion": "Shirogane",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/psicologico/dreaming/1.png",
+    "imagen": "/categorias/psicologico/dreaming/1.webp",
     "trama": "Había una vez una joven a la cual le encantaba soñar, su nombre era Mary. Ella creaba historias increíbles y podía explorar fantásticos mundos. Ella podía hacer lo que fuera en sus sueños, le gustaba tanto soñar que nunca quería despertar. Después de todo la realidad es aburrida y tenebrosa. Cuando vives de esa manera, ¿no te gustaría adentrarte en tus sueños?",
     "imagenes": [
-      "/categorias/psicologico/dreaming/2.png",
-      "/categorias/psicologico/dreaming/3.png",
-      "/categorias/psicologico/dreaming/4.png"
+      "/categorias/psicologico/dreaming/2.webp",
+      "/categorias/psicologico/dreaming/3.webp",
+      "/categorias/psicologico/dreaming/4.webp"
     ],
     "finales": "4 Finales",
     "duracion": "20 - 30 Minutos por Final",
@@ -1041,8 +1045,8 @@
     "imagen": "/categorias/psicologico/omori/1.gif",
     "trama": "Hola, te habla Orca. Coordinador de la traducción de Omori. Me alegra que todo haya salido bien con la traducción de este juego que ha sido reconocido por muchos como un gran juego y parte de la historia de Indie Horror RPG, el hecho de entrar de lleno en una traducción tan difícil me parece casi un sueño, ¡espero que lo disfruten!",
     "imagenes": [
-      "/categorias/psicologico/omori/2.png",
-      "/categorias/psicologico/omori/3.png",
+      "/categorias/psicologico/omori/2.webp",
+      "/categorias/psicologico/omori/3.webp",
       "/categorias/psicologico/omori/4.gif"
     ],
     "finales": "5 Finales",
@@ -1063,12 +1067,12 @@
     "escritor": "Orca",
     "traduccion": "Xistar",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/categorias/psicologico/conan/1.png",
+    "imagen": "/categorias/psicologico/conan/1.webp",
     "trama": "¿Acaso hice algo por él? Aunque él te perdone... yo no lo haré. Un joven trabajador y un pintor sin ventas se habían mudado a un viejo complejo apartamental. Con lo poco que tenían él era feliz. Hasta que aquel terrible incidente ocurrió.",
     "imagenes": [
-      "/categorias/psicologico/conan/2.png",
-      "/categorias/psicologico/conan/3.png",
-      "/categorias/psicologico/conan/4.png"
+      "/categorias/psicologico/conan/2.webp",
+      "/categorias/psicologico/conan/3.webp",
+      "/categorias/psicologico/conan/4.webp"
     ],
     "finales": "3 Finales",
     "duracion": "4 - 5 Horas",
@@ -1091,8 +1095,8 @@
     "imagen": "/categorias/psicologico/ore/1.png",
     "trama": "Kantarou, el personaje principal, es un muchacho con amnesia. Cuando se despierta se encuentra con una chica sentada a su lado. Parece que ella lo sabe, pero...",
     "imagenes": [
-      "/categorias/psicologico/ore/2.png",
-      "/categorias/psicologico/ore/3.png",
+      "/categorias/psicologico/ore/2.webp",
+      "/categorias/psicologico/ore/3.webp",
       "/categorias/psicologico/ore/4.png"
     ],
     "finales": "6 Finales",
@@ -1138,9 +1142,9 @@
     "escritor": "Orca",
     "traduccion": "Heroaureo",
     "subidoEl": "30 de Noviembre del 2023",
-    "imagen": "/aconite/1.png",
+    "imagen": "/aconite/1.webp",
     "trama": "Momo es un niño de secundaria y su sueño es ser amigo de todos los de su clase (¡y con el tiempo, de todo el colegio!). Él afronta los nuevos días y las nuevas personas con una sonrisa y un optimismo infinito. Pero resulta que no basta con hacerse amigo de todo el mundo. SObre todo cuando su amigo de toda la vida se ha mudado a su colegio y no le gustan sus nuevos amigos...",
-    "imagenes": ["/aconite/2.png", "/aconite/3.png", "/aconite/4.png"],
+    "imagenes": ["/aconite/2.webp", "/aconite/3.webp", "/aconite/4.webp"],
     "finales": "1 Final (Día 1)",
     "duracion": "30 - 50 Minutos",
     "descargaOriginal": null,

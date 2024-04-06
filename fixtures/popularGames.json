@@ -6,7 +6,7 @@
     "category": "Drama",
     "author": "Miwashiba",
     "translation": "Noree",
-    "image": "/images/popular/aconite.png",
+    "image": "/aconite/1.webp",
     "url": "url"
   },
   {
@@ -16,7 +16,7 @@
     "category": "Terror",
     "author": "PapitoRico",
     "translation": "Orca",
-    "image": "/images/popular/i_cannot_drown.png",
+    "image": "/drown/1.webp",
     "url": "url"
   },
   {
@@ -26,7 +26,7 @@
     "category": "Comedia",
     "author": "Noree",
     "translation": null,
-    "image": "/images/popular/mensajeros.png",
+    "image": "/mensajeros/1.webp",
     "url": "url"
   },
   {
@@ -36,7 +36,7 @@
     "category": "Terror",
     "author": "Funa",
     "translation": "Dark",
-    "image": "/images/popular/fear_hunger.png",
+    "image": "/categorias/accion/fear/1.webp",
     "url": "url"
   },
   {
@@ -46,7 +46,7 @@
     "category": "Drama",
     "author": "Miwashiba",
     "translation": "Noree",
-    "image": "/images/popular/mistrick.png",
+    "image": "/mistrick/1.webp",
     "url": "url"
   }
 ]

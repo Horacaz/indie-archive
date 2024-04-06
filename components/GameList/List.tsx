@@ -7,9 +7,11 @@ import { useParams } from 'next/navigation'
 
 export default function List() {
   const totalEntries = gameList.length
-  const currentPage = Number(useParams<{ pagina: string, nombre : string}>().pagina)
-  const entriesToShow: GameEntryProps[] = mapCategory(currentPage, gameList);
-  
+  const currentPage = Number(
+    useParams<{ pagina: string; nombre: string }>().pagina,
+  )
+  const entriesToShow: GameEntryProps[] = mapCategory(currentPage, gameList)
+
   return (
     <>
       <div className="text-white m-1 grid grid-cols-1 divide-y divide-stone-700  bg-neutral-900 rounded">
@@ -22,31 +24,21 @@ export default function List() {
   )
 }
 
-function mapCategory (currentPage : number, gameList: GameEntryProps[]) {
-  const category = useParams<{nombre : string}>().nombre;
-  let entriesToShow: GameEntryProps[];;
+function mapCategory(currentPage: number, gameList: GameEntryProps[]) {
+  const category = useParams<{ nombre: string }>().nombre
+  let entriesToShow: GameEntryProps[]
 
-  if(category === "todos") {
-    entriesToShow =  gameList.slice(currentPage * 5 - 5, currentPage * 5);
+  if (category === 'todos') {
+    entriesToShow = gameList.slice(currentPage * 5 - 5, currentPage * 5)
   } else {
-    const filter = gameList.filter( g => g.category.toLowerCase().startsWith(category));
-    entriesToShow = filter.slice(currentPage * 5 - 5, currentPage * 5);
+    const filter = gameList.filter((g) =>
+      g.category.toLowerCase().startsWith(category),
+    )
+    entriesToShow = filter.slice(currentPage * 5 - 5, currentPage * 5)
   }
 
-  return entriesToShow;
+  return entriesToShow
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 function GameEntry(props: GameEntryProps) {
   return (
